@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6ee98e35-82d2-4446-8309-a8ddba6f0f2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2m4lIrcpSseu21O8HoMabtUgVtl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Anomalia_no_ia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anomalia_current_ia.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.anomalia_ia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anomalia_ia_media_dispositivo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consumo_flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consumo_flask_plug.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.consumo_prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consumo_prediction_plug.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.planilha_export.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Plots.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/novaki/Documents/developer/inteligencia_artificial/anomalyDetection/consumo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/consumo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/anomalia" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Anomalia_no_ia" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="anomalyDetection" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,7 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anomalia_no_ia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,19 +106,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726343653554</updated>
-      <workItem from="1726343657691" duration="2000" />
+      <workItem from="1726343657691" duration="56000" />
+      <workItem from="1726502922541" duration="4867000" />
+      <workItem from="1726508385145" duration="165000" />
+      <workItem from="1726508555642" duration="1065000" />
+      <workItem from="1726509626336" duration="669000" />
+      <workItem from="1726510300808" duration="938000" />
+      <workItem from="1726511392026" duration="8126000" />
+      <workItem from="1726581454503" duration="12320000" />
+      <workItem from="1726668522674" duration="13738000" />
+      <workItem from="1726756625013" duration="8044000" />
+      <workItem from="1726837371658" duration="6292000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/consumo/consumo_flask_plug.py</url>
+          <line>70</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/anomalyDetection$anomalia_current_ia.coverage" NAME="anomalia_current_ia Coverage Results" MODIFIED="1726517306930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anomalia" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$anomalia_ia.coverage" NAME="anomalia_ia Coverage Results" MODIFIED="1726516083123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anomalia" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$planilha_export.coverage" NAME="planilha_export Coverage Results" MODIFIED="1726837406987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/planilha" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$main.coverage" NAME="Anomalia_no_ia Coverage Results" MODIFIED="1726509349317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1726683173305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumo" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$consumo_flask_plug.coverage" NAME="consumo_flask_plug Coverage Results" MODIFIED="1726770815947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumo" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$consumo_flask.coverage" NAME="consumo_flask Coverage Results" MODIFIED="1726684066119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumo" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$Anomalia_no_ia.coverage" NAME="Anomalia_no_ia Coverage Results" MODIFIED="1726668562297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$anomalia_ia_media_dispositivo.coverage" NAME="anomalia_ia_media_dispositivo Coverage Results" MODIFIED="1726852979295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anomalia" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$consumo_prediction_plug.coverage" NAME="consumo_prediction_plug Coverage Results" MODIFIED="1726769549182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumo" />
+    <SUITE FILE_PATH="coverage/anomalyDetection$consumo_prediction.coverage" NAME="consumo_prediction Coverage Results" MODIFIED="1726770808743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumo" />
   </component>
 </project>

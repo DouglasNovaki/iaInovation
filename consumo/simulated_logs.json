@@ -1,0 +1,5002 @@
+[
+    {
+        "timestamp": 1716685115000,
+        "value": "true",
+        "timeStr": "2024-05-25 21:58:35"
+    },
+    {
+        "timestamp": 1714509799000,
+        "value": "false",
+        "timeStr": "2024-04-30 17:43:19"
+    },
+    {
+        "timestamp": 1717930842000,
+        "value": "false",
+        "timeStr": "2024-06-09 08:00:42"
+    },
+    {
+        "timestamp": 1717149003000,
+        "value": "true",
+        "timeStr": "2024-05-31 06:50:03"
+    },
+    {
+        "timestamp": 1717618075000,
+        "value": "false",
+        "timeStr": "2024-06-05 17:07:55"
+    },
+    {
+        "timestamp": 1712533697000,
+        "value": "true",
+        "timeStr": "2024-04-07 20:48:17"
+    },
+    {
+        "timestamp": 1704566208000,
+        "value": "false",
+        "timeStr": "2024-01-06 15:36:48"
+    },
+    {
+        "timestamp": 1729319227000,
+        "value": "true",
+        "timeStr": "2024-10-19 03:27:07"
+    },
+    {
+        "timestamp": 1718681124000,
+        "value": "true",
+        "timeStr": "2024-06-18 00:25:24"
+    },
+    {
+        "timestamp": 1729092866000,
+        "value": "false",
+        "timeStr": "2024-10-16 12:34:26"
+    },
+    {
+        "timestamp": 1719404195000,
+        "value": "true",
+        "timeStr": "2024-06-26 09:16:35"
+    },
+    {
+        "timestamp": 1729481456000,
+        "value": "false",
+        "timeStr": "2024-10-21 00:30:56"
+    },
+    {
+        "timestamp": 1729416942000,
+        "value": "false",
+        "timeStr": "2024-10-20 06:35:42"
+    },
+    {
+        "timestamp": 1727720418000,
+        "value": "true",
+        "timeStr": "2024-09-30 15:20:18"
+    },
+    {
+        "timestamp": 1714868453000,
+        "value": "true",
+        "timeStr": "2024-05-04 21:20:53"
+    },
+    {
+        "timestamp": 1706979179000,
+        "value": "true",
+        "timeStr": "2024-02-03 13:52:59"
+    },
+    {
+        "timestamp": 1731192458000,
+        "value": "false",
+        "timeStr": "2024-11-09 19:47:38"
+    },
+    {
+        "timestamp": 1718893624000,
+        "value": "false",
+        "timeStr": "2024-06-20 11:27:04"
+    },
+    {
+        "timestamp": 1725171088000,
+        "value": "true",
+        "timeStr": "2024-09-01 03:11:28"
+    },
+    {
+        "timestamp": 1723794017000,
+        "value": "false",
+        "timeStr": "2024-08-16 04:40:17"
+    },
+    {
+        "timestamp": 1711659407000,
+        "value": "false",
+        "timeStr": "2024-03-28 17:56:47"
+    },
+    {
+        "timestamp": 1725701813000,
+        "value": "true",
+        "timeStr": "2024-09-07 06:36:53"
+    },
+    {
+        "timestamp": 1708719502000,
+        "value": "false",
+        "timeStr": "2024-02-23 17:18:22"
+    },
+    {
+        "timestamp": 1713570482000,
+        "value": "false",
+        "timeStr": "2024-04-19 20:48:02"
+    },
+    {
+        "timestamp": 1719677563000,
+        "value": "true",
+        "timeStr": "2024-06-29 13:12:43"
+    },
+    {
+        "timestamp": 1708311660000,
+        "value": "false",
+        "timeStr": "2024-02-19 00:01:00"
+    },
+    {
+        "timestamp": 1722238095000,
+        "value": "true",
+        "timeStr": "2024-07-29 04:28:15"
+    },
+    {
+        "timestamp": 1720605162000,
+        "value": "true",
+        "timeStr": "2024-07-10 06:52:42"
+    },
+    {
+        "timestamp": 1720274429000,
+        "value": "false",
+        "timeStr": "2024-07-06 11:00:29"
+    },
+    {
+        "timestamp": 1713381022000,
+        "value": "true",
+        "timeStr": "2024-04-17 16:10:22"
+    },
+    {
+        "timestamp": 1704081061000,
+        "value": "false",
+        "timeStr": "2024-01-01 00:51:01"
+    },
+    {
+        "timestamp": 1706180946000,
+        "value": "true",
+        "timeStr": "2024-01-25 08:09:06"
+    },
+    {
+        "timestamp": 1727642695000,
+        "value": "false",
+        "timeStr": "2024-09-29 17:44:55"
+    },
+    {
+        "timestamp": 1725218456000,
+        "value": "false",
+        "timeStr": "2024-09-01 16:20:56"
+    },
+    {
+        "timestamp": 1705144238000,
+        "value": "false",
+        "timeStr": "2024-01-13 08:10:38"
+    },
+    {
+        "timestamp": 1721517231000,
+        "value": "true",
+        "timeStr": "2024-07-20 20:13:51"
+    },
+    {
+        "timestamp": 1721196245000,
+        "value": "true",
+        "timeStr": "2024-07-17 03:04:05"
+    },
+    {
+        "timestamp": 1730182412000,
+        "value": "false",
+        "timeStr": "2024-10-29 03:13:32"
+    },
+    {
+        "timestamp": 1714697952000,
+        "value": "true",
+        "timeStr": "2024-05-02 21:59:12"
+    },
+    {
+        "timestamp": 1708830107000,
+        "value": "true",
+        "timeStr": "2024-02-25 00:01:47"
+    },
+    {
+        "timestamp": 1729724985000,
+        "value": "true",
+        "timeStr": "2024-10-23 20:09:45"
+    },
+    {
+        "timestamp": 1711343388000,
+        "value": "true",
+        "timeStr": "2024-03-25 02:09:48"
+    },
+    {
+        "timestamp": 1725602448000,
+        "value": "true",
+        "timeStr": "2024-09-06 03:00:48"
+    },
+    {
+        "timestamp": 1709538763000,
+        "value": "false",
+        "timeStr": "2024-03-04 04:52:43"
+    },
+    {
+        "timestamp": 1704881022000,
+        "value": "true",
+        "timeStr": "2024-01-10 07:03:42"
+    },
+    {
+        "timestamp": 1734521154000,
+        "value": "true",
+        "timeStr": "2024-12-18 08:25:54"
+    },
+    {
+        "timestamp": 1722467666000,
+        "value": "false",
+        "timeStr": "2024-07-31 20:14:26"
+    },
+    {
+        "timestamp": 1712536274000,
+        "value": "false",
+        "timeStr": "2024-04-07 21:31:14"
+    },
+    {
+        "timestamp": 1730655103000,
+        "value": "true",
+        "timeStr": "2024-11-03 14:31:43"
+    },
+    {
+        "timestamp": 1731008003000,
+        "value": "false",
+        "timeStr": "2024-11-07 16:33:23"
+    },
+    {
+        "timestamp": 1724304506000,
+        "value": "true",
+        "timeStr": "2024-08-22 02:28:26"
+    },
+    {
+        "timestamp": 1717276916000,
+        "value": "false",
+        "timeStr": "2024-06-01 18:21:56"
+    },
+    {
+        "timestamp": 1722787901000,
+        "value": "false",
+        "timeStr": "2024-08-04 13:11:41"
+    },
+    {
+        "timestamp": 1710692319000,
+        "value": "false",
+        "timeStr": "2024-03-17 13:18:39"
+    },
+    {
+        "timestamp": 1726943206000,
+        "value": "false",
+        "timeStr": "2024-09-21 15:26:46"
+    },
+    {
+        "timestamp": 1731540200000,
+        "value": "true",
+        "timeStr": "2024-11-13 20:23:20"
+    },
+    {
+        "timestamp": 1714856932000,
+        "value": "false",
+        "timeStr": "2024-05-04 18:08:52"
+    },
+    {
+        "timestamp": 1735292300000,
+        "value": "true",
+        "timeStr": "2024-12-27 06:38:20"
+    },
+    {
+        "timestamp": 1725936698000,
+        "value": "true",
+        "timeStr": "2024-09-09 23:51:38"
+    },
+    {
+        "timestamp": 1735417703000,
+        "value": "true",
+        "timeStr": "2024-12-28 17:28:23"
+    },
+    {
+        "timestamp": 1724845154000,
+        "value": "true",
+        "timeStr": "2024-08-28 08:39:14"
+    },
+    {
+        "timestamp": 1711068840000,
+        "value": "true",
+        "timeStr": "2024-03-21 21:54:00"
+    },
+    {
+        "timestamp": 1725598897000,
+        "value": "false",
+        "timeStr": "2024-09-06 02:01:37"
+    },
+    {
+        "timestamp": 1732147736000,
+        "value": "true",
+        "timeStr": "2024-11-20 21:08:56"
+    },
+    {
+        "timestamp": 1724416265000,
+        "value": "false",
+        "timeStr": "2024-08-23 09:31:05"
+    },
+    {
+        "timestamp": 1722793058000,
+        "value": "true",
+        "timeStr": "2024-08-04 14:37:38"
+    },
+    {
+        "timestamp": 1730453671000,
+        "value": "true",
+        "timeStr": "2024-11-01 06:34:31"
+    },
+    {
+        "timestamp": 1716151306000,
+        "value": "true",
+        "timeStr": "2024-05-19 17:41:46"
+    },
+    {
+        "timestamp": 1719587701000,
+        "value": "true",
+        "timeStr": "2024-06-28 12:15:01"
+    },
+    {
+        "timestamp": 1721798854000,
+        "value": "false",
+        "timeStr": "2024-07-24 02:27:34"
+    },
+    {
+        "timestamp": 1716873802000,
+        "value": "false",
+        "timeStr": "2024-05-28 02:23:22"
+    },
+    {
+        "timestamp": 1733171737000,
+        "value": "false",
+        "timeStr": "2024-12-02 17:35:37"
+    },
+    {
+        "timestamp": 1728952198000,
+        "value": "false",
+        "timeStr": "2024-10-14 21:29:58"
+    },
+    {
+        "timestamp": 1706974594000,
+        "value": "true",
+        "timeStr": "2024-02-03 12:36:34"
+    },
+    {
+        "timestamp": 1725419922000,
+        "value": "true",
+        "timeStr": "2024-09-04 00:18:42"
+    },
+    {
+        "timestamp": 1708402791000,
+        "value": "false",
+        "timeStr": "2024-02-20 01:19:51"
+    },
+    {
+        "timestamp": 1733047050000,
+        "value": "false",
+        "timeStr": "2024-12-01 06:57:30"
+    },
+    {
+        "timestamp": 1723356759000,
+        "value": "true",
+        "timeStr": "2024-08-11 03:12:39"
+    },
+    {
+        "timestamp": 1721165260000,
+        "value": "false",
+        "timeStr": "2024-07-16 18:27:40"
+    },
+    {
+        "timestamp": 1721589352000,
+        "value": "false",
+        "timeStr": "2024-07-21 16:15:52"
+    },
+    {
+        "timestamp": 1713361117000,
+        "value": "false",
+        "timeStr": "2024-04-17 10:38:37"
+    },
+    {
+        "timestamp": 1730343896000,
+        "value": "false",
+        "timeStr": "2024-10-31 00:04:56"
+    },
+    {
+        "timestamp": 1712460421000,
+        "value": "true",
+        "timeStr": "2024-04-07 00:27:01"
+    },
+    {
+        "timestamp": 1706441990000,
+        "value": "true",
+        "timeStr": "2024-01-28 08:39:50"
+    },
+    {
+        "timestamp": 1716819673000,
+        "value": "false",
+        "timeStr": "2024-05-27 11:21:13"
+    },
+    {
+        "timestamp": 1732881337000,
+        "value": "true",
+        "timeStr": "2024-11-29 08:55:37"
+    },
+    {
+        "timestamp": 1722204760000,
+        "value": "false",
+        "timeStr": "2024-07-28 19:12:40"
+    },
+    {
+        "timestamp": 1722328631000,
+        "value": "false",
+        "timeStr": "2024-07-30 05:37:11"
+    },
+    {
+        "timestamp": 1719480147000,
+        "value": "false",
+        "timeStr": "2024-06-27 06:22:27"
+    },
+    {
+        "timestamp": 1707077478000,
+        "value": "false",
+        "timeStr": "2024-02-04 17:11:18"
+    },
+    {
+        "timestamp": 1711597715000,
+        "value": "true",
+        "timeStr": "2024-03-28 00:48:35"
+    },
+    {
+        "timestamp": 1722880464000,
+        "value": "false",
+        "timeStr": "2024-08-05 14:54:24"
+    },
+    {
+        "timestamp": 1730540402000,
+        "value": "true",
+        "timeStr": "2024-11-02 06:40:02"
+    },
+    {
+        "timestamp": 1707302478000,
+        "value": "false",
+        "timeStr": "2024-02-07 07:41:18"
+    },
+    {
+        "timestamp": 1722817865000,
+        "value": "true",
+        "timeStr": "2024-08-04 21:31:05"
+    },
+    {
+        "timestamp": 1732048598000,
+        "value": "true",
+        "timeStr": "2024-11-19 17:36:38"
+    },
+    {
+        "timestamp": 1731365321000,
+        "value": "false",
+        "timeStr": "2024-11-11 19:48:41"
+    },
+    {
+        "timestamp": 1716654844000,
+        "value": "true",
+        "timeStr": "2024-05-25 13:34:04"
+    },
+    {
+        "timestamp": 1733351349000,
+        "value": "false",
+        "timeStr": "2024-12-04 19:29:09"
+    },
+    {
+        "timestamp": 1732300662000,
+        "value": "false",
+        "timeStr": "2024-11-22 15:37:42"
+    },
+    {
+        "timestamp": 1725615950000,
+        "value": "true",
+        "timeStr": "2024-09-06 06:45:50"
+    },
+    {
+        "timestamp": 1735207248000,
+        "value": "false",
+        "timeStr": "2024-12-26 07:00:48"
+    },
+    {
+        "timestamp": 1727379795000,
+        "value": "true",
+        "timeStr": "2024-09-26 16:43:15"
+    },
+    {
+        "timestamp": 1716156647000,
+        "value": "false",
+        "timeStr": "2024-05-19 19:10:47"
+    },
+    {
+        "timestamp": 1721020092000,
+        "value": "false",
+        "timeStr": "2024-07-15 02:08:12"
+    },
+    {
+        "timestamp": 1706035412000,
+        "value": "true",
+        "timeStr": "2024-01-23 15:43:32"
+    },
+    {
+        "timestamp": 1721375541000,
+        "value": "false",
+        "timeStr": "2024-07-19 04:52:21"
+    },
+    {
+        "timestamp": 1712213653000,
+        "value": "false",
+        "timeStr": "2024-04-04 03:54:13"
+    },
+    {
+        "timestamp": 1734912536000,
+        "value": "true",
+        "timeStr": "2024-12-22 21:08:56"
+    },
+    {
+        "timestamp": 1716553598000,
+        "value": "false",
+        "timeStr": "2024-05-24 09:26:38"
+    },
+    {
+        "timestamp": 1718139702000,
+        "value": "false",
+        "timeStr": "2024-06-11 18:01:42"
+    },
+    {
+        "timestamp": 1717361266000,
+        "value": "true",
+        "timeStr": "2024-06-02 17:47:46"
+    },
+    {
+        "timestamp": 1734693352000,
+        "value": "true",
+        "timeStr": "2024-12-20 08:15:52"
+    },
+    {
+        "timestamp": 1731126188000,
+        "value": "true",
+        "timeStr": "2024-11-09 01:23:08"
+    },
+    {
+        "timestamp": 1709131875000,
+        "value": "true",
+        "timeStr": "2024-02-28 11:51:15"
+    },
+    {
+        "timestamp": 1708928055000,
+        "value": "false",
+        "timeStr": "2024-02-26 03:14:15"
+    },
+    {
+        "timestamp": 1708829866000,
+        "value": "true",
+        "timeStr": "2024-02-24 23:57:46"
+    },
+    {
+        "timestamp": 1719388086000,
+        "value": "false",
+        "timeStr": "2024-06-26 04:48:06"
+    },
+    {
+        "timestamp": 1722078354000,
+        "value": "false",
+        "timeStr": "2024-07-27 08:05:54"
+    },
+    {
+        "timestamp": 1705189759000,
+        "value": "false",
+        "timeStr": "2024-01-13 20:49:19"
+    },
+    {
+        "timestamp": 1708957807000,
+        "value": "false",
+        "timeStr": "2024-02-26 11:30:07"
+    },
+    {
+        "timestamp": 1718244406000,
+        "value": "true",
+        "timeStr": "2024-06-12 23:06:46"
+    },
+    {
+        "timestamp": 1716948046000,
+        "value": "true",
+        "timeStr": "2024-05-28 23:00:46"
+    },
+    {
+        "timestamp": 1724197581000,
+        "value": "true",
+        "timeStr": "2024-08-20 20:46:21"
+    },
+    {
+        "timestamp": 1707447810000,
+        "value": "false",
+        "timeStr": "2024-02-09 00:03:30"
+    },
+    {
+        "timestamp": 1717293085000,
+        "value": "true",
+        "timeStr": "2024-06-01 22:51:25"
+    },
+    {
+        "timestamp": 1722079870000,
+        "value": "true",
+        "timeStr": "2024-07-27 08:31:10"
+    },
+    {
+        "timestamp": 1708951896000,
+        "value": "false",
+        "timeStr": "2024-02-26 09:51:36"
+    },
+    {
+        "timestamp": 1720879367000,
+        "value": "false",
+        "timeStr": "2024-07-13 11:02:47"
+    },
+    {
+        "timestamp": 1726019171000,
+        "value": "true",
+        "timeStr": "2024-09-10 22:46:11"
+    },
+    {
+        "timestamp": 1735298524000,
+        "value": "true",
+        "timeStr": "2024-12-27 08:22:04"
+    },
+    {
+        "timestamp": 1712929339000,
+        "value": "false",
+        "timeStr": "2024-04-12 10:42:19"
+    },
+    {
+        "timestamp": 1709885548000,
+        "value": "true",
+        "timeStr": "2024-03-08 05:12:28"
+    },
+    {
+        "timestamp": 1731509683000,
+        "value": "true",
+        "timeStr": "2024-11-13 11:54:43"
+    },
+    {
+        "timestamp": 1708190715000,
+        "value": "false",
+        "timeStr": "2024-02-17 14:25:15"
+    },
+    {
+        "timestamp": 1726355645000,
+        "value": "false",
+        "timeStr": "2024-09-14 20:14:05"
+    },
+    {
+        "timestamp": 1707583600000,
+        "value": "false",
+        "timeStr": "2024-02-10 13:46:40"
+    },
+    {
+        "timestamp": 1715624907000,
+        "value": "true",
+        "timeStr": "2024-05-13 15:28:27"
+    },
+    {
+        "timestamp": 1719419508000,
+        "value": "true",
+        "timeStr": "2024-06-26 13:31:48"
+    },
+    {
+        "timestamp": 1710492543000,
+        "value": "false",
+        "timeStr": "2024-03-15 05:49:03"
+    },
+    {
+        "timestamp": 1709572187000,
+        "value": "true",
+        "timeStr": "2024-03-04 14:09:47"
+    },
+    {
+        "timestamp": 1707420624000,
+        "value": "true",
+        "timeStr": "2024-02-08 16:30:24"
+    },
+    {
+        "timestamp": 1705252747000,
+        "value": "true",
+        "timeStr": "2024-01-14 14:19:07"
+    },
+    {
+        "timestamp": 1707006239000,
+        "value": "true",
+        "timeStr": "2024-02-03 21:23:59"
+    },
+    {
+        "timestamp": 1723812942000,
+        "value": "false",
+        "timeStr": "2024-08-16 09:55:42"
+    },
+    {
+        "timestamp": 1731864236000,
+        "value": "false",
+        "timeStr": "2024-11-17 14:23:56"
+    },
+    {
+        "timestamp": 1710164746000,
+        "value": "false",
+        "timeStr": "2024-03-11 10:45:46"
+    },
+    {
+        "timestamp": 1710138668000,
+        "value": "true",
+        "timeStr": "2024-03-11 03:31:08"
+    },
+    {
+        "timestamp": 1735504386000,
+        "value": "false",
+        "timeStr": "2024-12-29 17:33:06"
+    },
+    {
+        "timestamp": 1716897260000,
+        "value": "true",
+        "timeStr": "2024-05-28 08:54:20"
+    },
+    {
+        "timestamp": 1708724261000,
+        "value": "true",
+        "timeStr": "2024-02-23 18:37:41"
+    },
+    {
+        "timestamp": 1720030030000,
+        "value": "true",
+        "timeStr": "2024-07-03 15:07:10"
+    },
+    {
+        "timestamp": 1709274524000,
+        "value": "false",
+        "timeStr": "2024-03-01 03:28:44"
+    },
+    {
+        "timestamp": 1704457228000,
+        "value": "false",
+        "timeStr": "2024-01-05 09:20:28"
+    },
+    {
+        "timestamp": 1730178207000,
+        "value": "true",
+        "timeStr": "2024-10-29 02:03:27"
+    },
+    {
+        "timestamp": 1722028930000,
+        "value": "true",
+        "timeStr": "2024-07-26 18:22:10"
+    },
+    {
+        "timestamp": 1710467164000,
+        "value": "true",
+        "timeStr": "2024-03-14 22:46:04"
+    },
+    {
+        "timestamp": 1718891845000,
+        "value": "false",
+        "timeStr": "2024-06-20 10:57:25"
+    },
+    {
+        "timestamp": 1732075120000,
+        "value": "false",
+        "timeStr": "2024-11-20 00:58:40"
+    },
+    {
+        "timestamp": 1716473081000,
+        "value": "true",
+        "timeStr": "2024-05-23 11:04:41"
+    },
+    {
+        "timestamp": 1733323957000,
+        "value": "false",
+        "timeStr": "2024-12-04 11:52:37"
+    },
+    {
+        "timestamp": 1728042426000,
+        "value": "false",
+        "timeStr": "2024-10-04 08:47:06"
+    },
+    {
+        "timestamp": 1717198337000,
+        "value": "false",
+        "timeStr": "2024-05-31 20:32:17"
+    },
+    {
+        "timestamp": 1724081683000,
+        "value": "false",
+        "timeStr": "2024-08-19 12:34:43"
+    },
+    {
+        "timestamp": 1729242995000,
+        "value": "false",
+        "timeStr": "2024-10-18 06:16:35"
+    },
+    {
+        "timestamp": 1709527086000,
+        "value": "true",
+        "timeStr": "2024-03-04 01:38:06"
+    },
+    {
+        "timestamp": 1727494035000,
+        "value": "false",
+        "timeStr": "2024-09-28 00:27:15"
+    },
+    {
+        "timestamp": 1711025558000,
+        "value": "true",
+        "timeStr": "2024-03-21 09:52:38"
+    },
+    {
+        "timestamp": 1709108249000,
+        "value": "true",
+        "timeStr": "2024-02-28 05:17:29"
+    },
+    {
+        "timestamp": 1706217337000,
+        "value": "false",
+        "timeStr": "2024-01-25 18:15:37"
+    },
+    {
+        "timestamp": 1705530838000,
+        "value": "false",
+        "timeStr": "2024-01-17 19:33:58"
+    },
+    {
+        "timestamp": 1733878630000,
+        "value": "false",
+        "timeStr": "2024-12-10 21:57:10"
+    },
+    {
+        "timestamp": 1730674025000,
+        "value": "false",
+        "timeStr": "2024-11-03 19:47:05"
+    },
+    {
+        "timestamp": 1712746640000,
+        "value": "true",
+        "timeStr": "2024-04-10 07:57:20"
+    },
+    {
+        "timestamp": 1727240456000,
+        "value": "true",
+        "timeStr": "2024-09-25 02:00:56"
+    },
+    {
+        "timestamp": 1708794453000,
+        "value": "false",
+        "timeStr": "2024-02-24 14:07:33"
+    },
+    {
+        "timestamp": 1723329558000,
+        "value": "false",
+        "timeStr": "2024-08-10 19:39:18"
+    },
+    {
+        "timestamp": 1718678800000,
+        "value": "true",
+        "timeStr": "2024-06-17 23:46:40"
+    },
+    {
+        "timestamp": 1713337816000,
+        "value": "false",
+        "timeStr": "2024-04-17 04:10:16"
+    },
+    {
+        "timestamp": 1731509713000,
+        "value": "false",
+        "timeStr": "2024-11-13 11:55:13"
+    },
+    {
+        "timestamp": 1718528140000,
+        "value": "true",
+        "timeStr": "2024-06-16 05:55:40"
+    },
+    {
+        "timestamp": 1724692962000,
+        "value": "false",
+        "timeStr": "2024-08-26 14:22:42"
+    },
+    {
+        "timestamp": 1722096064000,
+        "value": "false",
+        "timeStr": "2024-07-27 13:01:04"
+    },
+    {
+        "timestamp": 1729033918000,
+        "value": "true",
+        "timeStr": "2024-10-15 20:11:58"
+    },
+    {
+        "timestamp": 1716991139000,
+        "value": "true",
+        "timeStr": "2024-05-29 10:58:59"
+    },
+    {
+        "timestamp": 1713643571000,
+        "value": "true",
+        "timeStr": "2024-04-20 17:06:11"
+    },
+    {
+        "timestamp": 1706557180000,
+        "value": "true",
+        "timeStr": "2024-01-29 16:39:40"
+    },
+    {
+        "timestamp": 1725906227000,
+        "value": "true",
+        "timeStr": "2024-09-09 15:23:47"
+    },
+    {
+        "timestamp": 1710922558000,
+        "value": "false",
+        "timeStr": "2024-03-20 05:15:58"
+    },
+    {
+        "timestamp": 1724138091000,
+        "value": "false",
+        "timeStr": "2024-08-20 04:14:51"
+    },
+    {
+        "timestamp": 1704569239000,
+        "value": "false",
+        "timeStr": "2024-01-06 16:27:19"
+    },
+    {
+        "timestamp": 1711254488000,
+        "value": "true",
+        "timeStr": "2024-03-24 01:28:08"
+    },
+    {
+        "timestamp": 1713977395000,
+        "value": "true",
+        "timeStr": "2024-04-24 13:49:55"
+    },
+    {
+        "timestamp": 1725638432000,
+        "value": "true",
+        "timeStr": "2024-09-06 13:00:32"
+    },
+    {
+        "timestamp": 1732535627000,
+        "value": "true",
+        "timeStr": "2024-11-25 08:53:47"
+    },
+    {
+        "timestamp": 1707678966000,
+        "value": "true",
+        "timeStr": "2024-02-11 16:16:06"
+    },
+    {
+        "timestamp": 1734405458000,
+        "value": "true",
+        "timeStr": "2024-12-17 00:17:38"
+    },
+    {
+        "timestamp": 1719393037000,
+        "value": "true",
+        "timeStr": "2024-06-26 06:10:37"
+    },
+    {
+        "timestamp": 1721960857000,
+        "value": "true",
+        "timeStr": "2024-07-25 23:27:37"
+    },
+    {
+        "timestamp": 1732826783000,
+        "value": "true",
+        "timeStr": "2024-11-28 17:46:23"
+    },
+    {
+        "timestamp": 1706923152000,
+        "value": "true",
+        "timeStr": "2024-02-02 22:19:12"
+    },
+    {
+        "timestamp": 1715790514000,
+        "value": "false",
+        "timeStr": "2024-05-15 13:28:34"
+    },
+    {
+        "timestamp": 1713492238000,
+        "value": "false",
+        "timeStr": "2024-04-18 23:03:58"
+    },
+    {
+        "timestamp": 1721806972000,
+        "value": "false",
+        "timeStr": "2024-07-24 04:42:52"
+    },
+    {
+        "timestamp": 1716195030000,
+        "value": "false",
+        "timeStr": "2024-05-20 05:50:30"
+    },
+    {
+        "timestamp": 1727996005000,
+        "value": "false",
+        "timeStr": "2024-10-03 19:53:25"
+    },
+    {
+        "timestamp": 1729248236000,
+        "value": "false",
+        "timeStr": "2024-10-18 07:43:56"
+    },
+    {
+        "timestamp": 1726419550000,
+        "value": "true",
+        "timeStr": "2024-09-15 13:59:10"
+    },
+    {
+        "timestamp": 1714135290000,
+        "value": "false",
+        "timeStr": "2024-04-26 09:41:30"
+    },
+    {
+        "timestamp": 1731540995000,
+        "value": "false",
+        "timeStr": "2024-11-13 20:36:35"
+    },
+    {
+        "timestamp": 1728204886000,
+        "value": "true",
+        "timeStr": "2024-10-06 05:54:46"
+    },
+    {
+        "timestamp": 1707179049000,
+        "value": "true",
+        "timeStr": "2024-02-05 21:24:09"
+    },
+    {
+        "timestamp": 1735406519000,
+        "value": "false",
+        "timeStr": "2024-12-28 14:21:59"
+    },
+    {
+        "timestamp": 1729209022000,
+        "value": "false",
+        "timeStr": "2024-10-17 20:50:22"
+    },
+    {
+        "timestamp": 1714049291000,
+        "value": "true",
+        "timeStr": "2024-04-25 09:48:11"
+    },
+    {
+        "timestamp": 1706616634000,
+        "value": "true",
+        "timeStr": "2024-01-30 09:10:34"
+    },
+    {
+        "timestamp": 1734103774000,
+        "value": "true",
+        "timeStr": "2024-12-13 12:29:34"
+    },
+    {
+        "timestamp": 1720392926000,
+        "value": "true",
+        "timeStr": "2024-07-07 19:55:26"
+    },
+    {
+        "timestamp": 1732826120000,
+        "value": "false",
+        "timeStr": "2024-11-28 17:35:20"
+    },
+    {
+        "timestamp": 1734774556000,
+        "value": "true",
+        "timeStr": "2024-12-21 06:49:16"
+    },
+    {
+        "timestamp": 1718529944000,
+        "value": "true",
+        "timeStr": "2024-06-16 06:25:44"
+    },
+    {
+        "timestamp": 1722804390000,
+        "value": "false",
+        "timeStr": "2024-08-04 17:46:30"
+    },
+    {
+        "timestamp": 1708506254000,
+        "value": "true",
+        "timeStr": "2024-02-21 06:04:14"
+    },
+    {
+        "timestamp": 1704914053000,
+        "value": "false",
+        "timeStr": "2024-01-10 16:14:13"
+    },
+    {
+        "timestamp": 1732938474000,
+        "value": "true",
+        "timeStr": "2024-11-30 00:47:54"
+    },
+    {
+        "timestamp": 1725144696000,
+        "value": "false",
+        "timeStr": "2024-08-31 19:51:36"
+    },
+    {
+        "timestamp": 1708948906000,
+        "value": "true",
+        "timeStr": "2024-02-26 09:01:46"
+    },
+    {
+        "timestamp": 1729489351000,
+        "value": "true",
+        "timeStr": "2024-10-21 02:42:31"
+    },
+    {
+        "timestamp": 1730694446000,
+        "value": "true",
+        "timeStr": "2024-11-04 01:27:26"
+    },
+    {
+        "timestamp": 1705225280000,
+        "value": "true",
+        "timeStr": "2024-01-14 06:41:20"
+    },
+    {
+        "timestamp": 1726503036000,
+        "value": "true",
+        "timeStr": "2024-09-16 13:10:36"
+    },
+    {
+        "timestamp": 1705671680000,
+        "value": "false",
+        "timeStr": "2024-01-19 10:41:20"
+    },
+    {
+        "timestamp": 1707898044000,
+        "value": "false",
+        "timeStr": "2024-02-14 05:07:24"
+    },
+    {
+        "timestamp": 1728430008000,
+        "value": "true",
+        "timeStr": "2024-10-08 20:26:48"
+    },
+    {
+        "timestamp": 1724417350000,
+        "value": "false",
+        "timeStr": "2024-08-23 09:49:10"
+    },
+    {
+        "timestamp": 1707478659000,
+        "value": "true",
+        "timeStr": "2024-02-09 08:37:39"
+    },
+    {
+        "timestamp": 1724958829000,
+        "value": "true",
+        "timeStr": "2024-08-29 16:13:49"
+    },
+    {
+        "timestamp": 1705343700000,
+        "value": "true",
+        "timeStr": "2024-01-15 15:35:00"
+    },
+    {
+        "timestamp": 1720286538000,
+        "value": "false",
+        "timeStr": "2024-07-06 14:22:18"
+    },
+    {
+        "timestamp": 1716665641000,
+        "value": "false",
+        "timeStr": "2024-05-25 16:34:01"
+    },
+    {
+        "timestamp": 1712976596000,
+        "value": "false",
+        "timeStr": "2024-04-12 23:49:56"
+    },
+    {
+        "timestamp": 1723024886000,
+        "value": "true",
+        "timeStr": "2024-08-07 07:01:26"
+    },
+    {
+        "timestamp": 1714409831000,
+        "value": "false",
+        "timeStr": "2024-04-29 13:57:11"
+    },
+    {
+        "timestamp": 1730472212000,
+        "value": "false",
+        "timeStr": "2024-11-01 11:43:32"
+    },
+    {
+        "timestamp": 1719066020000,
+        "value": "true",
+        "timeStr": "2024-06-22 11:20:20"
+    },
+    {
+        "timestamp": 1730444978000,
+        "value": "false",
+        "timeStr": "2024-11-01 04:09:38"
+    },
+    {
+        "timestamp": 1723411692000,
+        "value": "false",
+        "timeStr": "2024-08-11 18:28:12"
+    },
+    {
+        "timestamp": 1728102946000,
+        "value": "true",
+        "timeStr": "2024-10-05 01:35:46"
+    },
+    {
+        "timestamp": 1735382434000,
+        "value": "true",
+        "timeStr": "2024-12-28 07:40:34"
+    },
+    {
+        "timestamp": 1719205249000,
+        "value": "false",
+        "timeStr": "2024-06-24 02:00:49"
+    },
+    {
+        "timestamp": 1710993942000,
+        "value": "true",
+        "timeStr": "2024-03-21 01:05:42"
+    },
+    {
+        "timestamp": 1731176179000,
+        "value": "true",
+        "timeStr": "2024-11-09 15:16:19"
+    },
+    {
+        "timestamp": 1706972135000,
+        "value": "false",
+        "timeStr": "2024-02-03 11:55:35"
+    },
+    {
+        "timestamp": 1730430107000,
+        "value": "false",
+        "timeStr": "2024-11-01 00:01:47"
+    },
+    {
+        "timestamp": 1709057948000,
+        "value": "false",
+        "timeStr": "2024-02-27 15:19:08"
+    },
+    {
+        "timestamp": 1717191215000,
+        "value": "true",
+        "timeStr": "2024-05-31 18:33:35"
+    },
+    {
+        "timestamp": 1705555487000,
+        "value": "false",
+        "timeStr": "2024-01-18 02:24:47"
+    },
+    {
+        "timestamp": 1716666756000,
+        "value": "true",
+        "timeStr": "2024-05-25 16:52:36"
+    },
+    {
+        "timestamp": 1709259916000,
+        "value": "false",
+        "timeStr": "2024-02-29 23:25:16"
+    },
+    {
+        "timestamp": 1731443125000,
+        "value": "false",
+        "timeStr": "2024-11-12 17:25:25"
+    },
+    {
+        "timestamp": 1734924068000,
+        "value": "false",
+        "timeStr": "2024-12-23 00:21:08"
+    },
+    {
+        "timestamp": 1728082635000,
+        "value": "false",
+        "timeStr": "2024-10-04 19:57:15"
+    },
+    {
+        "timestamp": 1722033155000,
+        "value": "true",
+        "timeStr": "2024-07-26 19:32:35"
+    },
+    {
+        "timestamp": 1730844505000,
+        "value": "true",
+        "timeStr": "2024-11-05 19:08:25"
+    },
+    {
+        "timestamp": 1711611681000,
+        "value": "true",
+        "timeStr": "2024-03-28 04:41:21"
+    },
+    {
+        "timestamp": 1730074157000,
+        "value": "false",
+        "timeStr": "2024-10-27 21:09:17"
+    },
+    {
+        "timestamp": 1716725804000,
+        "value": "false",
+        "timeStr": "2024-05-26 09:16:44"
+    },
+    {
+        "timestamp": 1712024510000,
+        "value": "false",
+        "timeStr": "2024-04-01 23:21:50"
+    },
+    {
+        "timestamp": 1734231666000,
+        "value": "false",
+        "timeStr": "2024-12-15 00:01:06"
+    },
+    {
+        "timestamp": 1716681612000,
+        "value": "false",
+        "timeStr": "2024-05-25 21:00:12"
+    },
+    {
+        "timestamp": 1725810031000,
+        "value": "true",
+        "timeStr": "2024-09-08 12:40:31"
+    },
+    {
+        "timestamp": 1717331166000,
+        "value": "true",
+        "timeStr": "2024-06-02 09:26:06"
+    },
+    {
+        "timestamp": 1714459878000,
+        "value": "false",
+        "timeStr": "2024-04-30 03:51:18"
+    },
+    {
+        "timestamp": 1729008672000,
+        "value": "true",
+        "timeStr": "2024-10-15 13:11:12"
+    },
+    {
+        "timestamp": 1706794228000,
+        "value": "false",
+        "timeStr": "2024-02-01 10:30:28"
+    },
+    {
+        "timestamp": 1714844083000,
+        "value": "true",
+        "timeStr": "2024-05-04 14:34:43"
+    },
+    {
+        "timestamp": 1721150681000,
+        "value": "false",
+        "timeStr": "2024-07-16 14:24:41"
+    },
+    {
+        "timestamp": 1717851541000,
+        "value": "false",
+        "timeStr": "2024-06-08 09:59:01"
+    },
+    {
+        "timestamp": 1716327018000,
+        "value": "true",
+        "timeStr": "2024-05-21 18:30:18"
+    },
+    {
+        "timestamp": 1707769664000,
+        "value": "true",
+        "timeStr": "2024-02-12 17:27:44"
+    },
+    {
+        "timestamp": 1730818128000,
+        "value": "true",
+        "timeStr": "2024-11-05 11:48:48"
+    },
+    {
+        "timestamp": 1730382804000,
+        "value": "false",
+        "timeStr": "2024-10-31 10:53:24"
+    },
+    {
+        "timestamp": 1707117496000,
+        "value": "false",
+        "timeStr": "2024-02-05 04:18:16"
+    },
+    {
+        "timestamp": 1724773242000,
+        "value": "false",
+        "timeStr": "2024-08-27 12:40:42"
+    },
+    {
+        "timestamp": 1735607926000,
+        "value": "false",
+        "timeStr": "2024-12-30 22:18:46"
+    },
+    {
+        "timestamp": 1718733072000,
+        "value": "false",
+        "timeStr": "2024-06-18 14:51:12"
+    },
+    {
+        "timestamp": 1712353760000,
+        "value": "false",
+        "timeStr": "2024-04-05 18:49:20"
+    },
+    {
+        "timestamp": 1718359283000,
+        "value": "true",
+        "timeStr": "2024-06-14 07:01:23"
+    },
+    {
+        "timestamp": 1725392113000,
+        "value": "false",
+        "timeStr": "2024-09-03 16:35:13"
+    },
+    {
+        "timestamp": 1732976951000,
+        "value": "false",
+        "timeStr": "2024-11-30 11:29:11"
+    },
+    {
+        "timestamp": 1714324939000,
+        "value": "false",
+        "timeStr": "2024-04-28 14:22:19"
+    },
+    {
+        "timestamp": 1724637989000,
+        "value": "true",
+        "timeStr": "2024-08-25 23:06:29"
+    },
+    {
+        "timestamp": 1733282111000,
+        "value": "true",
+        "timeStr": "2024-12-04 00:15:11"
+    },
+    {
+        "timestamp": 1720697068000,
+        "value": "false",
+        "timeStr": "2024-07-11 08:24:28"
+    },
+    {
+        "timestamp": 1724918948000,
+        "value": "true",
+        "timeStr": "2024-08-29 05:09:08"
+    },
+    {
+        "timestamp": 1712235250000,
+        "value": "false",
+        "timeStr": "2024-04-04 09:54:10"
+    },
+    {
+        "timestamp": 1706605246000,
+        "value": "false",
+        "timeStr": "2024-01-30 06:00:46"
+    },
+    {
+        "timestamp": 1725550072000,
+        "value": "false",
+        "timeStr": "2024-09-05 12:27:52"
+    },
+    {
+        "timestamp": 1719321969000,
+        "value": "false",
+        "timeStr": "2024-06-25 10:26:09"
+    },
+    {
+        "timestamp": 1725376418000,
+        "value": "false",
+        "timeStr": "2024-09-03 12:13:38"
+    },
+    {
+        "timestamp": 1713477196000,
+        "value": "false",
+        "timeStr": "2024-04-18 18:53:16"
+    },
+    {
+        "timestamp": 1705415530000,
+        "value": "true",
+        "timeStr": "2024-01-16 11:32:10"
+    },
+    {
+        "timestamp": 1720001960000,
+        "value": "true",
+        "timeStr": "2024-07-03 07:19:20"
+    },
+    {
+        "timestamp": 1716496302000,
+        "value": "true",
+        "timeStr": "2024-05-23 17:31:42"
+    },
+    {
+        "timestamp": 1707106482000,
+        "value": "false",
+        "timeStr": "2024-02-05 01:14:42"
+    },
+    {
+        "timestamp": 1716928007000,
+        "value": "true",
+        "timeStr": "2024-05-28 17:26:47"
+    },
+    {
+        "timestamp": 1709159683000,
+        "value": "false",
+        "timeStr": "2024-02-28 19:34:43"
+    },
+    {
+        "timestamp": 1707067632000,
+        "value": "false",
+        "timeStr": "2024-02-04 14:27:12"
+    },
+    {
+        "timestamp": 1705662826000,
+        "value": "true",
+        "timeStr": "2024-01-19 08:13:46"
+    },
+    {
+        "timestamp": 1720192799000,
+        "value": "false",
+        "timeStr": "2024-07-05 12:19:59"
+    },
+    {
+        "timestamp": 1709996211000,
+        "value": "true",
+        "timeStr": "2024-03-09 11:56:51"
+    },
+    {
+        "timestamp": 1705954860000,
+        "value": "true",
+        "timeStr": "2024-01-22 17:21:00"
+    },
+    {
+        "timestamp": 1709630997000,
+        "value": "true",
+        "timeStr": "2024-03-05 06:29:57"
+    },
+    {
+        "timestamp": 1727086943000,
+        "value": "true",
+        "timeStr": "2024-09-23 07:22:23"
+    },
+    {
+        "timestamp": 1726251871000,
+        "value": "false",
+        "timeStr": "2024-09-13 15:24:31"
+    },
+    {
+        "timestamp": 1733917520000,
+        "value": "true",
+        "timeStr": "2024-12-11 08:45:20"
+    },
+    {
+        "timestamp": 1715123665000,
+        "value": "false",
+        "timeStr": "2024-05-07 20:14:25"
+    },
+    {
+        "timestamp": 1709843899000,
+        "value": "true",
+        "timeStr": "2024-03-07 17:38:19"
+    },
+    {
+        "timestamp": 1711705705000,
+        "value": "true",
+        "timeStr": "2024-03-29 06:48:25"
+    },
+    {
+        "timestamp": 1724619980000,
+        "value": "false",
+        "timeStr": "2024-08-25 18:06:20"
+    },
+    {
+        "timestamp": 1716318577000,
+        "value": "true",
+        "timeStr": "2024-05-21 16:09:37"
+    },
+    {
+        "timestamp": 1733288556000,
+        "value": "true",
+        "timeStr": "2024-12-04 02:02:36"
+    },
+    {
+        "timestamp": 1733354026000,
+        "value": "false",
+        "timeStr": "2024-12-04 20:13:46"
+    },
+    {
+        "timestamp": 1722790391000,
+        "value": "false",
+        "timeStr": "2024-08-04 13:53:11"
+    },
+    {
+        "timestamp": 1704228765000,
+        "value": "false",
+        "timeStr": "2024-01-02 17:52:45"
+    },
+    {
+        "timestamp": 1705510805000,
+        "value": "true",
+        "timeStr": "2024-01-17 14:00:05"
+    },
+    {
+        "timestamp": 1719536205000,
+        "value": "false",
+        "timeStr": "2024-06-27 21:56:45"
+    },
+    {
+        "timestamp": 1724107633000,
+        "value": "true",
+        "timeStr": "2024-08-19 19:47:13"
+    },
+    {
+        "timestamp": 1721883969000,
+        "value": "true",
+        "timeStr": "2024-07-25 02:06:09"
+    },
+    {
+        "timestamp": 1715071910000,
+        "value": "false",
+        "timeStr": "2024-05-07 05:51:50"
+    },
+    {
+        "timestamp": 1734045731000,
+        "value": "true",
+        "timeStr": "2024-12-12 20:22:11"
+    },
+    {
+        "timestamp": 1715137506000,
+        "value": "true",
+        "timeStr": "2024-05-08 00:05:06"
+    },
+    {
+        "timestamp": 1706145064000,
+        "value": "false",
+        "timeStr": "2024-01-24 22:11:04"
+    },
+    {
+        "timestamp": 1727501882000,
+        "value": "false",
+        "timeStr": "2024-09-28 02:38:02"
+    },
+    {
+        "timestamp": 1726604212000,
+        "value": "false",
+        "timeStr": "2024-09-17 17:16:52"
+    },
+    {
+        "timestamp": 1717702990000,
+        "value": "true",
+        "timeStr": "2024-06-06 16:43:10"
+    },
+    {
+        "timestamp": 1735256995000,
+        "value": "false",
+        "timeStr": "2024-12-26 20:49:55"
+    },
+    {
+        "timestamp": 1709975575000,
+        "value": "false",
+        "timeStr": "2024-03-09 06:12:55"
+    },
+    {
+        "timestamp": 1709957751000,
+        "value": "false",
+        "timeStr": "2024-03-09 01:15:51"
+    },
+    {
+        "timestamp": 1734230959000,
+        "value": "false",
+        "timeStr": "2024-12-14 23:49:19"
+    },
+    {
+        "timestamp": 1711103495000,
+        "value": "false",
+        "timeStr": "2024-03-22 07:31:35"
+    },
+    {
+        "timestamp": 1716486291000,
+        "value": "true",
+        "timeStr": "2024-05-23 14:44:51"
+    },
+    {
+        "timestamp": 1718005010000,
+        "value": "false",
+        "timeStr": "2024-06-10 04:36:50"
+    },
+    {
+        "timestamp": 1734719103000,
+        "value": "false",
+        "timeStr": "2024-12-20 15:25:03"
+    },
+    {
+        "timestamp": 1719734406000,
+        "value": "false",
+        "timeStr": "2024-06-30 05:00:06"
+    },
+    {
+        "timestamp": 1725031051000,
+        "value": "true",
+        "timeStr": "2024-08-30 12:17:31"
+    },
+    {
+        "timestamp": 1710747207000,
+        "value": "false",
+        "timeStr": "2024-03-18 04:33:27"
+    },
+    {
+        "timestamp": 1720947216000,
+        "value": "true",
+        "timeStr": "2024-07-14 05:53:36"
+    },
+    {
+        "timestamp": 1713834404000,
+        "value": "true",
+        "timeStr": "2024-04-22 22:06:44"
+    },
+    {
+        "timestamp": 1718068498000,
+        "value": "false",
+        "timeStr": "2024-06-10 22:14:58"
+    },
+    {
+        "timestamp": 1707660546000,
+        "value": "true",
+        "timeStr": "2024-02-11 11:09:06"
+    },
+    {
+        "timestamp": 1708567935000,
+        "value": "true",
+        "timeStr": "2024-02-21 23:12:15"
+    },
+    {
+        "timestamp": 1713769983000,
+        "value": "true",
+        "timeStr": "2024-04-22 04:13:03"
+    },
+    {
+        "timestamp": 1733892032000,
+        "value": "false",
+        "timeStr": "2024-12-11 01:40:32"
+    },
+    {
+        "timestamp": 1714457639000,
+        "value": "false",
+        "timeStr": "2024-04-30 03:13:59"
+    },
+    {
+        "timestamp": 1720336154000,
+        "value": "true",
+        "timeStr": "2024-07-07 04:09:14"
+    },
+    {
+        "timestamp": 1731003940000,
+        "value": "false",
+        "timeStr": "2024-11-07 15:25:40"
+    },
+    {
+        "timestamp": 1705852048000,
+        "value": "true",
+        "timeStr": "2024-01-21 12:47:28"
+    },
+    {
+        "timestamp": 1730409463000,
+        "value": "true",
+        "timeStr": "2024-10-31 18:17:43"
+    },
+    {
+        "timestamp": 1704211850000,
+        "value": "false",
+        "timeStr": "2024-01-02 13:10:50"
+    },
+    {
+        "timestamp": 1731627524000,
+        "value": "true",
+        "timeStr": "2024-11-14 20:38:44"
+    },
+    {
+        "timestamp": 1721108906000,
+        "value": "true",
+        "timeStr": "2024-07-16 02:48:26"
+    },
+    {
+        "timestamp": 1718568765000,
+        "value": "true",
+        "timeStr": "2024-06-16 17:12:45"
+    },
+    {
+        "timestamp": 1718797685000,
+        "value": "true",
+        "timeStr": "2024-06-19 08:48:05"
+    },
+    {
+        "timestamp": 1707060576000,
+        "value": "true",
+        "timeStr": "2024-02-04 12:29:36"
+    },
+    {
+        "timestamp": 1733662480000,
+        "value": "true",
+        "timeStr": "2024-12-08 09:54:40"
+    },
+    {
+        "timestamp": 1729831111000,
+        "value": "false",
+        "timeStr": "2024-10-25 01:38:31"
+    },
+    {
+        "timestamp": 1719419311000,
+        "value": "false",
+        "timeStr": "2024-06-26 13:28:31"
+    },
+    {
+        "timestamp": 1731763889000,
+        "value": "true",
+        "timeStr": "2024-11-16 10:31:29"
+    },
+    {
+        "timestamp": 1733218832000,
+        "value": "true",
+        "timeStr": "2024-12-03 06:40:32"
+    },
+    {
+        "timestamp": 1729285247000,
+        "value": "false",
+        "timeStr": "2024-10-18 18:00:47"
+    },
+    {
+        "timestamp": 1727215131000,
+        "value": "false",
+        "timeStr": "2024-09-24 18:58:51"
+    },
+    {
+        "timestamp": 1708965695000,
+        "value": "false",
+        "timeStr": "2024-02-26 13:41:35"
+    },
+    {
+        "timestamp": 1712931546000,
+        "value": "false",
+        "timeStr": "2024-04-12 11:19:06"
+    },
+    {
+        "timestamp": 1731250186000,
+        "value": "true",
+        "timeStr": "2024-11-10 11:49:46"
+    },
+    {
+        "timestamp": 1719721897000,
+        "value": "false",
+        "timeStr": "2024-06-30 01:31:37"
+    },
+    {
+        "timestamp": 1732645771000,
+        "value": "false",
+        "timeStr": "2024-11-26 15:29:31"
+    },
+    {
+        "timestamp": 1704646371000,
+        "value": "true",
+        "timeStr": "2024-01-07 13:52:51"
+    },
+    {
+        "timestamp": 1709922975000,
+        "value": "true",
+        "timeStr": "2024-03-08 15:36:15"
+    },
+    {
+        "timestamp": 1729632625000,
+        "value": "true",
+        "timeStr": "2024-10-22 18:30:25"
+    },
+    {
+        "timestamp": 1717084407000,
+        "value": "true",
+        "timeStr": "2024-05-30 12:53:27"
+    },
+    {
+        "timestamp": 1731503406000,
+        "value": "true",
+        "timeStr": "2024-11-13 10:10:06"
+    },
+    {
+        "timestamp": 1714716763000,
+        "value": "false",
+        "timeStr": "2024-05-03 03:12:43"
+    },
+    {
+        "timestamp": 1730274889000,
+        "value": "true",
+        "timeStr": "2024-10-30 04:54:49"
+    },
+    {
+        "timestamp": 1729848394000,
+        "value": "true",
+        "timeStr": "2024-10-25 06:26:34"
+    },
+    {
+        "timestamp": 1718286951000,
+        "value": "false",
+        "timeStr": "2024-06-13 10:55:51"
+    },
+    {
+        "timestamp": 1713334924000,
+        "value": "true",
+        "timeStr": "2024-04-17 03:22:04"
+    },
+    {
+        "timestamp": 1720857120000,
+        "value": "true",
+        "timeStr": "2024-07-13 04:52:00"
+    },
+    {
+        "timestamp": 1713138027000,
+        "value": "true",
+        "timeStr": "2024-04-14 20:40:27"
+    },
+    {
+        "timestamp": 1726601460000,
+        "value": "true",
+        "timeStr": "2024-09-17 16:31:00"
+    },
+    {
+        "timestamp": 1726996632000,
+        "value": "true",
+        "timeStr": "2024-09-22 06:17:12"
+    },
+    {
+        "timestamp": 1711182905000,
+        "value": "true",
+        "timeStr": "2024-03-23 05:35:05"
+    },
+    {
+        "timestamp": 1715789046000,
+        "value": "true",
+        "timeStr": "2024-05-15 13:04:06"
+    },
+    {
+        "timestamp": 1705575278000,
+        "value": "true",
+        "timeStr": "2024-01-18 07:54:38"
+    },
+    {
+        "timestamp": 1732365986000,
+        "value": "false",
+        "timeStr": "2024-11-23 09:46:26"
+    },
+    {
+        "timestamp": 1734416307000,
+        "value": "true",
+        "timeStr": "2024-12-17 03:18:27"
+    },
+    {
+        "timestamp": 1718658000000,
+        "value": "true",
+        "timeStr": "2024-06-17 18:00:00"
+    },
+    {
+        "timestamp": 1715560004000,
+        "value": "true",
+        "timeStr": "2024-05-12 21:26:44"
+    },
+    {
+        "timestamp": 1712345237000,
+        "value": "true",
+        "timeStr": "2024-04-05 16:27:17"
+    },
+    {
+        "timestamp": 1717923761000,
+        "value": "false",
+        "timeStr": "2024-06-09 06:02:41"
+    },
+    {
+        "timestamp": 1704911791000,
+        "value": "false",
+        "timeStr": "2024-01-10 15:36:31"
+    },
+    {
+        "timestamp": 1716201886000,
+        "value": "true",
+        "timeStr": "2024-05-20 07:44:46"
+    },
+    {
+        "timestamp": 1730894128000,
+        "value": "true",
+        "timeStr": "2024-11-06 08:55:28"
+    },
+    {
+        "timestamp": 1723389421000,
+        "value": "true",
+        "timeStr": "2024-08-11 12:17:01"
+    },
+    {
+        "timestamp": 1710019657000,
+        "value": "true",
+        "timeStr": "2024-03-09 18:27:37"
+    },
+    {
+        "timestamp": 1704189405000,
+        "value": "false",
+        "timeStr": "2024-01-02 06:56:45"
+    },
+    {
+        "timestamp": 1710386072000,
+        "value": "false",
+        "timeStr": "2024-03-14 00:14:32"
+    },
+    {
+        "timestamp": 1711569481000,
+        "value": "true",
+        "timeStr": "2024-03-27 16:58:01"
+    },
+    {
+        "timestamp": 1716658504000,
+        "value": "false",
+        "timeStr": "2024-05-25 14:35:04"
+    },
+    {
+        "timestamp": 1711677035000,
+        "value": "true",
+        "timeStr": "2024-03-28 22:50:35"
+    },
+    {
+        "timestamp": 1717628083000,
+        "value": "true",
+        "timeStr": "2024-06-05 19:54:43"
+    },
+    {
+        "timestamp": 1718356020000,
+        "value": "false",
+        "timeStr": "2024-06-14 06:07:00"
+    },
+    {
+        "timestamp": 1725398802000,
+        "value": "true",
+        "timeStr": "2024-09-03 18:26:42"
+    },
+    {
+        "timestamp": 1709227352000,
+        "value": "false",
+        "timeStr": "2024-02-29 14:22:32"
+    },
+    {
+        "timestamp": 1712203498000,
+        "value": "false",
+        "timeStr": "2024-04-04 01:04:58"
+    },
+    {
+        "timestamp": 1734667553000,
+        "value": "true",
+        "timeStr": "2024-12-20 01:05:53"
+    },
+    {
+        "timestamp": 1726966066000,
+        "value": "false",
+        "timeStr": "2024-09-21 21:47:46"
+    },
+    {
+        "timestamp": 1704492923000,
+        "value": "false",
+        "timeStr": "2024-01-05 19:15:23"
+    },
+    {
+        "timestamp": 1733497896000,
+        "value": "false",
+        "timeStr": "2024-12-06 12:11:36"
+    },
+    {
+        "timestamp": 1715314789000,
+        "value": "true",
+        "timeStr": "2024-05-10 01:19:49"
+    },
+    {
+        "timestamp": 1705106490000,
+        "value": "true",
+        "timeStr": "2024-01-12 21:41:30"
+    },
+    {
+        "timestamp": 1717314357000,
+        "value": "true",
+        "timeStr": "2024-06-02 04:45:57"
+    },
+    {
+        "timestamp": 1716038170000,
+        "value": "true",
+        "timeStr": "2024-05-18 10:16:10"
+    },
+    {
+        "timestamp": 1731375721000,
+        "value": "false",
+        "timeStr": "2024-11-11 22:42:01"
+    },
+    {
+        "timestamp": 1722997201000,
+        "value": "true",
+        "timeStr": "2024-08-06 23:20:01"
+    },
+    {
+        "timestamp": 1729945162000,
+        "value": "true",
+        "timeStr": "2024-10-26 09:19:22"
+    },
+    {
+        "timestamp": 1715425576000,
+        "value": "true",
+        "timeStr": "2024-05-11 08:06:16"
+    },
+    {
+        "timestamp": 1720200053000,
+        "value": "true",
+        "timeStr": "2024-07-05 14:20:53"
+    },
+    {
+        "timestamp": 1730839906000,
+        "value": "false",
+        "timeStr": "2024-11-05 17:51:46"
+    },
+    {
+        "timestamp": 1725634378000,
+        "value": "false",
+        "timeStr": "2024-09-06 11:52:58"
+    },
+    {
+        "timestamp": 1723941691000,
+        "value": "false",
+        "timeStr": "2024-08-17 21:41:31"
+    },
+    {
+        "timestamp": 1724144562000,
+        "value": "true",
+        "timeStr": "2024-08-20 06:02:42"
+    },
+    {
+        "timestamp": 1709445447000,
+        "value": "false",
+        "timeStr": "2024-03-03 02:57:27"
+    },
+    {
+        "timestamp": 1717177816000,
+        "value": "false",
+        "timeStr": "2024-05-31 14:50:16"
+    },
+    {
+        "timestamp": 1713856068000,
+        "value": "true",
+        "timeStr": "2024-04-23 04:07:48"
+    },
+    {
+        "timestamp": 1707061763000,
+        "value": "true",
+        "timeStr": "2024-02-04 12:49:23"
+    },
+    {
+        "timestamp": 1709636015000,
+        "value": "false",
+        "timeStr": "2024-03-05 07:53:35"
+    },
+    {
+        "timestamp": 1718363007000,
+        "value": "true",
+        "timeStr": "2024-06-14 08:03:27"
+    },
+    {
+        "timestamp": 1719518483000,
+        "value": "true",
+        "timeStr": "2024-06-27 17:01:23"
+    },
+    {
+        "timestamp": 1731972942000,
+        "value": "false",
+        "timeStr": "2024-11-18 20:35:42"
+    },
+    {
+        "timestamp": 1705200475000,
+        "value": "true",
+        "timeStr": "2024-01-13 23:47:55"
+    },
+    {
+        "timestamp": 1733684008000,
+        "value": "true",
+        "timeStr": "2024-12-08 15:53:28"
+    },
+    {
+        "timestamp": 1716450203000,
+        "value": "true",
+        "timeStr": "2024-05-23 04:43:23"
+    },
+    {
+        "timestamp": 1729388431000,
+        "value": "false",
+        "timeStr": "2024-10-19 22:40:31"
+    },
+    {
+        "timestamp": 1716622327000,
+        "value": "false",
+        "timeStr": "2024-05-25 04:32:07"
+    },
+    {
+        "timestamp": 1715406124000,
+        "value": "true",
+        "timeStr": "2024-05-11 02:42:04"
+    },
+    {
+        "timestamp": 1718068923000,
+        "value": "false",
+        "timeStr": "2024-06-10 22:22:03"
+    },
+    {
+        "timestamp": 1723442660000,
+        "value": "true",
+        "timeStr": "2024-08-12 03:04:20"
+    },
+    {
+        "timestamp": 1720409992000,
+        "value": "true",
+        "timeStr": "2024-07-08 00:39:52"
+    },
+    {
+        "timestamp": 1726450809000,
+        "value": "true",
+        "timeStr": "2024-09-15 22:40:09"
+    },
+    {
+        "timestamp": 1729157790000,
+        "value": "false",
+        "timeStr": "2024-10-17 06:36:30"
+    },
+    {
+        "timestamp": 1712655702000,
+        "value": "false",
+        "timeStr": "2024-04-09 06:41:42"
+    },
+    {
+        "timestamp": 1720819056000,
+        "value": "true",
+        "timeStr": "2024-07-12 18:17:36"
+    },
+    {
+        "timestamp": 1717003542000,
+        "value": "false",
+        "timeStr": "2024-05-29 14:25:42"
+    },
+    {
+        "timestamp": 1705276278000,
+        "value": "true",
+        "timeStr": "2024-01-14 20:51:18"
+    },
+    {
+        "timestamp": 1711446596000,
+        "value": "true",
+        "timeStr": "2024-03-26 06:49:56"
+    },
+    {
+        "timestamp": 1733249044000,
+        "value": "false",
+        "timeStr": "2024-12-03 15:04:04"
+    },
+    {
+        "timestamp": 1711080289000,
+        "value": "true",
+        "timeStr": "2024-03-22 01:04:49"
+    },
+    {
+        "timestamp": 1732549599000,
+        "value": "true",
+        "timeStr": "2024-11-25 12:46:39"
+    },
+    {
+        "timestamp": 1728917350000,
+        "value": "false",
+        "timeStr": "2024-10-14 11:49:10"
+    },
+    {
+        "timestamp": 1734426226000,
+        "value": "true",
+        "timeStr": "2024-12-17 06:03:46"
+    },
+    {
+        "timestamp": 1710631298000,
+        "value": "true",
+        "timeStr": "2024-03-16 20:21:38"
+    },
+    {
+        "timestamp": 1732696788000,
+        "value": "false",
+        "timeStr": "2024-11-27 05:39:48"
+    },
+    {
+        "timestamp": 1726086349000,
+        "value": "true",
+        "timeStr": "2024-09-11 17:25:49"
+    },
+    {
+        "timestamp": 1704165995000,
+        "value": "true",
+        "timeStr": "2024-01-02 00:26:35"
+    },
+    {
+        "timestamp": 1713450032000,
+        "value": "true",
+        "timeStr": "2024-04-18 11:20:32"
+    },
+    {
+        "timestamp": 1718888093000,
+        "value": "true",
+        "timeStr": "2024-06-20 09:54:53"
+    },
+    {
+        "timestamp": 1704932924000,
+        "value": "false",
+        "timeStr": "2024-01-10 21:28:44"
+    },
+    {
+        "timestamp": 1721593815000,
+        "value": "true",
+        "timeStr": "2024-07-21 17:30:15"
+    },
+    {
+        "timestamp": 1729588887000,
+        "value": "true",
+        "timeStr": "2024-10-22 06:21:27"
+    },
+    {
+        "timestamp": 1706544555000,
+        "value": "true",
+        "timeStr": "2024-01-29 13:09:15"
+    },
+    {
+        "timestamp": 1720111395000,
+        "value": "true",
+        "timeStr": "2024-07-04 13:43:15"
+    },
+    {
+        "timestamp": 1714879723000,
+        "value": "false",
+        "timeStr": "2024-05-05 00:28:43"
+    },
+    {
+        "timestamp": 1732554272000,
+        "value": "true",
+        "timeStr": "2024-11-25 14:04:32"
+    },
+    {
+        "timestamp": 1734631223000,
+        "value": "false",
+        "timeStr": "2024-12-19 15:00:23"
+    },
+    {
+        "timestamp": 1724924473000,
+        "value": "true",
+        "timeStr": "2024-08-29 06:41:13"
+    },
+    {
+        "timestamp": 1722705675000,
+        "value": "true",
+        "timeStr": "2024-08-03 14:21:15"
+    },
+    {
+        "timestamp": 1730380069000,
+        "value": "true",
+        "timeStr": "2024-10-31 10:07:49"
+    },
+    {
+        "timestamp": 1720809203000,
+        "value": "true",
+        "timeStr": "2024-07-12 15:33:23"
+    },
+    {
+        "timestamp": 1716838785000,
+        "value": "true",
+        "timeStr": "2024-05-27 16:39:45"
+    },
+    {
+        "timestamp": 1725783275000,
+        "value": "true",
+        "timeStr": "2024-09-08 05:14:35"
+    },
+    {
+        "timestamp": 1727863439000,
+        "value": "true",
+        "timeStr": "2024-10-02 07:03:59"
+    },
+    {
+        "timestamp": 1735609357000,
+        "value": "false",
+        "timeStr": "2024-12-30 22:42:37"
+    },
+    {
+        "timestamp": 1719471295000,
+        "value": "false",
+        "timeStr": "2024-06-27 03:54:55"
+    },
+    {
+        "timestamp": 1720352038000,
+        "value": "false",
+        "timeStr": "2024-07-07 08:33:58"
+    },
+    {
+        "timestamp": 1706888884000,
+        "value": "false",
+        "timeStr": "2024-02-02 12:48:04"
+    },
+    {
+        "timestamp": 1710313148000,
+        "value": "false",
+        "timeStr": "2024-03-13 03:59:08"
+    },
+    {
+        "timestamp": 1735602417000,
+        "value": "true",
+        "timeStr": "2024-12-30 20:46:57"
+    },
+    {
+        "timestamp": 1720079366000,
+        "value": "true",
+        "timeStr": "2024-07-04 04:49:26"
+    },
+    {
+        "timestamp": 1717938592000,
+        "value": "false",
+        "timeStr": "2024-06-09 10:09:52"
+    },
+    {
+        "timestamp": 1718421201000,
+        "value": "true",
+        "timeStr": "2024-06-15 00:13:21"
+    },
+    {
+        "timestamp": 1731126942000,
+        "value": "true",
+        "timeStr": "2024-11-09 01:35:42"
+    },
+    {
+        "timestamp": 1730490284000,
+        "value": "true",
+        "timeStr": "2024-11-01 16:44:44"
+    },
+    {
+        "timestamp": 1735199717000,
+        "value": "true",
+        "timeStr": "2024-12-26 04:55:17"
+    },
+    {
+        "timestamp": 1733383793000,
+        "value": "false",
+        "timeStr": "2024-12-05 04:29:53"
+    },
+    {
+        "timestamp": 1732942612000,
+        "value": "true",
+        "timeStr": "2024-11-30 01:56:52"
+    },
+    {
+        "timestamp": 1729732447000,
+        "value": "false",
+        "timeStr": "2024-10-23 22:14:07"
+    },
+    {
+        "timestamp": 1735475923000,
+        "value": "false",
+        "timeStr": "2024-12-29 09:38:43"
+    },
+    {
+        "timestamp": 1706221816000,
+        "value": "true",
+        "timeStr": "2024-01-25 19:30:16"
+    },
+    {
+        "timestamp": 1720071011000,
+        "value": "true",
+        "timeStr": "2024-07-04 02:30:11"
+    },
+    {
+        "timestamp": 1706778986000,
+        "value": "true",
+        "timeStr": "2024-02-01 06:16:26"
+    },
+    {
+        "timestamp": 1727655510000,
+        "value": "true",
+        "timeStr": "2024-09-29 21:18:30"
+    },
+    {
+        "timestamp": 1729380705000,
+        "value": "false",
+        "timeStr": "2024-10-19 20:31:45"
+    },
+    {
+        "timestamp": 1714671008000,
+        "value": "false",
+        "timeStr": "2024-05-02 14:30:08"
+    },
+    {
+        "timestamp": 1730280301000,
+        "value": "true",
+        "timeStr": "2024-10-30 06:25:01"
+    },
+    {
+        "timestamp": 1714545807000,
+        "value": "false",
+        "timeStr": "2024-05-01 03:43:27"
+    },
+    {
+        "timestamp": 1729673857000,
+        "value": "false",
+        "timeStr": "2024-10-23 05:57:37"
+    },
+    {
+        "timestamp": 1732318371000,
+        "value": "true",
+        "timeStr": "2024-11-22 20:32:51"
+    },
+    {
+        "timestamp": 1725176580000,
+        "value": "false",
+        "timeStr": "2024-09-01 04:43:00"
+    },
+    {
+        "timestamp": 1722109502000,
+        "value": "false",
+        "timeStr": "2024-07-27 16:45:02"
+    },
+    {
+        "timestamp": 1717014638000,
+        "value": "false",
+        "timeStr": "2024-05-29 17:30:38"
+    },
+    {
+        "timestamp": 1724531821000,
+        "value": "true",
+        "timeStr": "2024-08-24 17:37:01"
+    },
+    {
+        "timestamp": 1712288067000,
+        "value": "true",
+        "timeStr": "2024-04-05 00:34:27"
+    },
+    {
+        "timestamp": 1704836660000,
+        "value": "true",
+        "timeStr": "2024-01-09 18:44:20"
+    },
+    {
+        "timestamp": 1709919606000,
+        "value": "true",
+        "timeStr": "2024-03-08 14:40:06"
+    },
+    {
+        "timestamp": 1719448687000,
+        "value": "false",
+        "timeStr": "2024-06-26 21:38:07"
+    },
+    {
+        "timestamp": 1712965575000,
+        "value": "false",
+        "timeStr": "2024-04-12 20:46:15"
+    },
+    {
+        "timestamp": 1714548228000,
+        "value": "false",
+        "timeStr": "2024-05-01 04:23:48"
+    },
+    {
+        "timestamp": 1725910716000,
+        "value": "false",
+        "timeStr": "2024-09-09 16:38:36"
+    },
+    {
+        "timestamp": 1726001633000,
+        "value": "true",
+        "timeStr": "2024-09-10 17:53:53"
+    },
+    {
+        "timestamp": 1734716606000,
+        "value": "false",
+        "timeStr": "2024-12-20 14:43:26"
+    },
+    {
+        "timestamp": 1707650348000,
+        "value": "false",
+        "timeStr": "2024-02-11 08:19:08"
+    },
+    {
+        "timestamp": 1726093106000,
+        "value": "true",
+        "timeStr": "2024-09-11 19:18:26"
+    },
+    {
+        "timestamp": 1732313433000,
+        "value": "false",
+        "timeStr": "2024-11-22 19:10:33"
+    },
+    {
+        "timestamp": 1717595312000,
+        "value": "false",
+        "timeStr": "2024-06-05 10:48:32"
+    },
+    {
+        "timestamp": 1722981065000,
+        "value": "false",
+        "timeStr": "2024-08-06 18:51:05"
+    },
+    {
+        "timestamp": 1712593562000,
+        "value": "true",
+        "timeStr": "2024-04-08 13:26:02"
+    },
+    {
+        "timestamp": 1729783218000,
+        "value": "false",
+        "timeStr": "2024-10-24 12:20:18"
+    },
+    {
+        "timestamp": 1716195092000,
+        "value": "true",
+        "timeStr": "2024-05-20 05:51:32"
+    },
+    {
+        "timestamp": 1707030960000,
+        "value": "true",
+        "timeStr": "2024-02-04 04:16:00"
+    },
+    {
+        "timestamp": 1712956395000,
+        "value": "true",
+        "timeStr": "2024-04-12 18:13:15"
+    },
+    {
+        "timestamp": 1711498171000,
+        "value": "false",
+        "timeStr": "2024-03-26 21:09:31"
+    },
+    {
+        "timestamp": 1724510318000,
+        "value": "true",
+        "timeStr": "2024-08-24 11:38:38"
+    },
+    {
+        "timestamp": 1706341557000,
+        "value": "false",
+        "timeStr": "2024-01-27 04:45:57"
+    },
+    {
+        "timestamp": 1730742478000,
+        "value": "true",
+        "timeStr": "2024-11-04 14:47:58"
+    },
+    {
+        "timestamp": 1716800533000,
+        "value": "true",
+        "timeStr": "2024-05-27 06:02:13"
+    },
+    {
+        "timestamp": 1704468609000,
+        "value": "true",
+        "timeStr": "2024-01-05 12:30:09"
+    },
+    {
+        "timestamp": 1732157769000,
+        "value": "true",
+        "timeStr": "2024-11-20 23:56:09"
+    },
+    {
+        "timestamp": 1720714162000,
+        "value": "true",
+        "timeStr": "2024-07-11 13:09:22"
+    },
+    {
+        "timestamp": 1707929658000,
+        "value": "false",
+        "timeStr": "2024-02-14 13:54:18"
+    },
+    {
+        "timestamp": 1727368201000,
+        "value": "true",
+        "timeStr": "2024-09-26 13:30:01"
+    },
+    {
+        "timestamp": 1717939282000,
+        "value": "true",
+        "timeStr": "2024-06-09 10:21:22"
+    },
+    {
+        "timestamp": 1712913925000,
+        "value": "false",
+        "timeStr": "2024-04-12 06:25:25"
+    },
+    {
+        "timestamp": 1729350627000,
+        "value": "true",
+        "timeStr": "2024-10-19 12:10:27"
+    },
+    {
+        "timestamp": 1723686407000,
+        "value": "true",
+        "timeStr": "2024-08-14 22:46:47"
+    },
+    {
+        "timestamp": 1727568997000,
+        "value": "true",
+        "timeStr": "2024-09-28 21:16:37"
+    },
+    {
+        "timestamp": 1731531205000,
+        "value": "false",
+        "timeStr": "2024-11-13 17:53:25"
+    },
+    {
+        "timestamp": 1720245557000,
+        "value": "false",
+        "timeStr": "2024-07-06 02:59:17"
+    },
+    {
+        "timestamp": 1716439186000,
+        "value": "false",
+        "timeStr": "2024-05-23 01:39:46"
+    },
+    {
+        "timestamp": 1718891904000,
+        "value": "false",
+        "timeStr": "2024-06-20 10:58:24"
+    },
+    {
+        "timestamp": 1731996752000,
+        "value": "true",
+        "timeStr": "2024-11-19 03:12:32"
+    },
+    {
+        "timestamp": 1706542386000,
+        "value": "true",
+        "timeStr": "2024-01-29 12:33:06"
+    },
+    {
+        "timestamp": 1734417468000,
+        "value": "true",
+        "timeStr": "2024-12-17 03:37:48"
+    },
+    {
+        "timestamp": 1722615259000,
+        "value": "true",
+        "timeStr": "2024-08-02 13:14:19"
+    },
+    {
+        "timestamp": 1732700331000,
+        "value": "true",
+        "timeStr": "2024-11-27 06:38:51"
+    },
+    {
+        "timestamp": 1705354572000,
+        "value": "true",
+        "timeStr": "2024-01-15 18:36:12"
+    },
+    {
+        "timestamp": 1733179214000,
+        "value": "true",
+        "timeStr": "2024-12-02 19:40:14"
+    },
+    {
+        "timestamp": 1732802508000,
+        "value": "false",
+        "timeStr": "2024-11-28 11:01:48"
+    },
+    {
+        "timestamp": 1721587637000,
+        "value": "true",
+        "timeStr": "2024-07-21 15:47:17"
+    },
+    {
+        "timestamp": 1730955206000,
+        "value": "false",
+        "timeStr": "2024-11-07 01:53:26"
+    },
+    {
+        "timestamp": 1723126554000,
+        "value": "false",
+        "timeStr": "2024-08-08 11:15:54"
+    },
+    {
+        "timestamp": 1720561220000,
+        "value": "false",
+        "timeStr": "2024-07-09 18:40:20"
+    },
+    {
+        "timestamp": 1719359962000,
+        "value": "true",
+        "timeStr": "2024-06-25 20:59:22"
+    },
+    {
+        "timestamp": 1731808364000,
+        "value": "true",
+        "timeStr": "2024-11-16 22:52:44"
+    },
+    {
+        "timestamp": 1725235043000,
+        "value": "false",
+        "timeStr": "2024-09-01 20:57:23"
+    },
+    {
+        "timestamp": 1724932481000,
+        "value": "true",
+        "timeStr": "2024-08-29 08:54:41"
+    },
+    {
+        "timestamp": 1706610455000,
+        "value": "false",
+        "timeStr": "2024-01-30 07:27:35"
+    },
+    {
+        "timestamp": 1728718381000,
+        "value": "false",
+        "timeStr": "2024-10-12 04:33:01"
+    },
+    {
+        "timestamp": 1724737701000,
+        "value": "true",
+        "timeStr": "2024-08-27 02:48:21"
+    },
+    {
+        "timestamp": 1719546212000,
+        "value": "false",
+        "timeStr": "2024-06-28 00:43:32"
+    },
+    {
+        "timestamp": 1717620165000,
+        "value": "false",
+        "timeStr": "2024-06-05 17:42:45"
+    },
+    {
+        "timestamp": 1724984690000,
+        "value": "true",
+        "timeStr": "2024-08-29 23:24:50"
+    },
+    {
+        "timestamp": 1733715060000,
+        "value": "true",
+        "timeStr": "2024-12-09 00:31:00"
+    },
+    {
+        "timestamp": 1707981708000,
+        "value": "false",
+        "timeStr": "2024-02-15 04:21:48"
+    },
+    {
+        "timestamp": 1719184709000,
+        "value": "false",
+        "timeStr": "2024-06-23 20:18:29"
+    },
+    {
+        "timestamp": 1717763096000,
+        "value": "true",
+        "timeStr": "2024-06-07 09:24:56"
+    },
+    {
+        "timestamp": 1714520510000,
+        "value": "false",
+        "timeStr": "2024-04-30 20:41:50"
+    },
+    {
+        "timestamp": 1730137504000,
+        "value": "true",
+        "timeStr": "2024-10-28 14:45:04"
+    },
+    {
+        "timestamp": 1706624133000,
+        "value": "true",
+        "timeStr": "2024-01-30 11:15:33"
+    },
+    {
+        "timestamp": 1714727640000,
+        "value": "false",
+        "timeStr": "2024-05-03 06:14:00"
+    },
+    {
+        "timestamp": 1722345469000,
+        "value": "false",
+        "timeStr": "2024-07-30 10:17:49"
+    },
+    {
+        "timestamp": 1732570299000,
+        "value": "false",
+        "timeStr": "2024-11-25 18:31:39"
+    },
+    {
+        "timestamp": 1731242511000,
+        "value": "false",
+        "timeStr": "2024-11-10 09:41:51"
+    },
+    {
+        "timestamp": 1716431479000,
+        "value": "false",
+        "timeStr": "2024-05-22 23:31:19"
+    },
+    {
+        "timestamp": 1714260564000,
+        "value": "true",
+        "timeStr": "2024-04-27 20:29:24"
+    },
+    {
+        "timestamp": 1726463272000,
+        "value": "false",
+        "timeStr": "2024-09-16 02:07:52"
+    },
+    {
+        "timestamp": 1705604618000,
+        "value": "true",
+        "timeStr": "2024-01-18 16:03:38"
+    },
+    {
+        "timestamp": 1716758972000,
+        "value": "false",
+        "timeStr": "2024-05-26 18:29:32"
+    },
+    {
+        "timestamp": 1713255840000,
+        "value": "false",
+        "timeStr": "2024-04-16 05:24:00"
+    },
+    {
+        "timestamp": 1714011816000,
+        "value": "true",
+        "timeStr": "2024-04-24 23:23:36"
+    },
+    {
+        "timestamp": 1707958792000,
+        "value": "true",
+        "timeStr": "2024-02-14 21:59:52"
+    },
+    {
+        "timestamp": 1706671460000,
+        "value": "true",
+        "timeStr": "2024-01-31 00:24:20"
+    },
+    {
+        "timestamp": 1725864935000,
+        "value": "false",
+        "timeStr": "2024-09-09 03:55:35"
+    },
+    {
+        "timestamp": 1710061109000,
+        "value": "true",
+        "timeStr": "2024-03-10 05:58:29"
+    },
+    {
+        "timestamp": 1729638291000,
+        "value": "true",
+        "timeStr": "2024-10-22 20:04:51"
+    },
+    {
+        "timestamp": 1722448314000,
+        "value": "true",
+        "timeStr": "2024-07-31 14:51:54"
+    },
+    {
+        "timestamp": 1716461939000,
+        "value": "false",
+        "timeStr": "2024-05-23 07:58:59"
+    },
+    {
+        "timestamp": 1704157678000,
+        "value": "false",
+        "timeStr": "2024-01-01 22:07:58"
+    },
+    {
+        "timestamp": 1708328830000,
+        "value": "true",
+        "timeStr": "2024-02-19 04:47:10"
+    },
+    {
+        "timestamp": 1712681393000,
+        "value": "true",
+        "timeStr": "2024-04-09 13:49:53"
+    },
+    {
+        "timestamp": 1709126837000,
+        "value": "true",
+        "timeStr": "2024-02-28 10:27:17"
+    },
+    {
+        "timestamp": 1715157069000,
+        "value": "true",
+        "timeStr": "2024-05-08 05:31:09"
+    },
+    {
+        "timestamp": 1734130356000,
+        "value": "true",
+        "timeStr": "2024-12-13 19:52:36"
+    },
+    {
+        "timestamp": 1727964386000,
+        "value": "true",
+        "timeStr": "2024-10-03 11:06:26"
+    },
+    {
+        "timestamp": 1719723541000,
+        "value": "true",
+        "timeStr": "2024-06-30 01:59:01"
+    },
+    {
+        "timestamp": 1709085187000,
+        "value": "false",
+        "timeStr": "2024-02-27 22:53:07"
+    },
+    {
+        "timestamp": 1728597240000,
+        "value": "false",
+        "timeStr": "2024-10-10 18:54:00"
+    },
+    {
+        "timestamp": 1706710117000,
+        "value": "false",
+        "timeStr": "2024-01-31 11:08:37"
+    },
+    {
+        "timestamp": 1734949907000,
+        "value": "false",
+        "timeStr": "2024-12-23 07:31:47"
+    },
+    {
+        "timestamp": 1733014167000,
+        "value": "true",
+        "timeStr": "2024-11-30 21:49:27"
+    },
+    {
+        "timestamp": 1724142075000,
+        "value": "false",
+        "timeStr": "2024-08-20 05:21:15"
+    },
+    {
+        "timestamp": 1725575366000,
+        "value": "true",
+        "timeStr": "2024-09-05 19:29:26"
+    },
+    {
+        "timestamp": 1713824296000,
+        "value": "true",
+        "timeStr": "2024-04-22 19:18:16"
+    },
+    {
+        "timestamp": 1706075870000,
+        "value": "false",
+        "timeStr": "2024-01-24 02:57:50"
+    },
+    {
+        "timestamp": 1707006447000,
+        "value": "true",
+        "timeStr": "2024-02-03 21:27:27"
+    },
+    {
+        "timestamp": 1720381426000,
+        "value": "true",
+        "timeStr": "2024-07-07 16:43:46"
+    },
+    {
+        "timestamp": 1720901779000,
+        "value": "true",
+        "timeStr": "2024-07-13 17:16:19"
+    },
+    {
+        "timestamp": 1732407503000,
+        "value": "true",
+        "timeStr": "2024-11-23 21:18:23"
+    },
+    {
+        "timestamp": 1712947659000,
+        "value": "false",
+        "timeStr": "2024-04-12 15:47:39"
+    },
+    {
+        "timestamp": 1728094894000,
+        "value": "true",
+        "timeStr": "2024-10-04 23:21:34"
+    },
+    {
+        "timestamp": 1724355091000,
+        "value": "false",
+        "timeStr": "2024-08-22 16:31:31"
+    },
+    {
+        "timestamp": 1723549310000,
+        "value": "true",
+        "timeStr": "2024-08-13 08:41:50"
+    },
+    {
+        "timestamp": 1727596958000,
+        "value": "true",
+        "timeStr": "2024-09-29 05:02:38"
+    },
+    {
+        "timestamp": 1707430589000,
+        "value": "false",
+        "timeStr": "2024-02-08 19:16:29"
+    },
+    {
+        "timestamp": 1730850132000,
+        "value": "true",
+        "timeStr": "2024-11-05 20:42:12"
+    },
+    {
+        "timestamp": 1725600962000,
+        "value": "false",
+        "timeStr": "2024-09-06 02:36:02"
+    },
+    {
+        "timestamp": 1734857940000,
+        "value": "false",
+        "timeStr": "2024-12-22 05:59:00"
+    },
+    {
+        "timestamp": 1733158245000,
+        "value": "true",
+        "timeStr": "2024-12-02 13:50:45"
+    },
+    {
+        "timestamp": 1734906727000,
+        "value": "true",
+        "timeStr": "2024-12-22 19:32:07"
+    },
+    {
+        "timestamp": 1713008872000,
+        "value": "false",
+        "timeStr": "2024-04-13 08:47:52"
+    },
+    {
+        "timestamp": 1729704644000,
+        "value": "false",
+        "timeStr": "2024-10-23 14:30:44"
+    },
+    {
+        "timestamp": 1712391950000,
+        "value": "true",
+        "timeStr": "2024-04-06 05:25:50"
+    },
+    {
+        "timestamp": 1723739362000,
+        "value": "true",
+        "timeStr": "2024-08-15 13:29:22"
+    },
+    {
+        "timestamp": 1730753597000,
+        "value": "false",
+        "timeStr": "2024-11-04 17:53:17"
+    },
+    {
+        "timestamp": 1710076020000,
+        "value": "false",
+        "timeStr": "2024-03-10 10:07:00"
+    },
+    {
+        "timestamp": 1716312117000,
+        "value": "false",
+        "timeStr": "2024-05-21 14:21:57"
+    },
+    {
+        "timestamp": 1728560418000,
+        "value": "true",
+        "timeStr": "2024-10-10 08:40:18"
+    },
+    {
+        "timestamp": 1720219775000,
+        "value": "false",
+        "timeStr": "2024-07-05 19:49:35"
+    },
+    {
+        "timestamp": 1722849535000,
+        "value": "true",
+        "timeStr": "2024-08-05 06:18:55"
+    },
+    {
+        "timestamp": 1704506068000,
+        "value": "true",
+        "timeStr": "2024-01-05 22:54:28"
+    },
+    {
+        "timestamp": 1718789451000,
+        "value": "true",
+        "timeStr": "2024-06-19 06:30:51"
+    },
+    {
+        "timestamp": 1728248891000,
+        "value": "false",
+        "timeStr": "2024-10-06 18:08:11"
+    },
+    {
+        "timestamp": 1714032353000,
+        "value": "false",
+        "timeStr": "2024-04-25 05:05:53"
+    },
+    {
+        "timestamp": 1724149049000,
+        "value": "true",
+        "timeStr": "2024-08-20 07:17:29"
+    },
+    {
+        "timestamp": 1714028309000,
+        "value": "false",
+        "timeStr": "2024-04-25 03:58:29"
+    },
+    {
+        "timestamp": 1713412822000,
+        "value": "true",
+        "timeStr": "2024-04-18 01:00:22"
+    },
+    {
+        "timestamp": 1730497076000,
+        "value": "false",
+        "timeStr": "2024-11-01 18:37:56"
+    },
+    {
+        "timestamp": 1727436602000,
+        "value": "false",
+        "timeStr": "2024-09-27 08:30:02"
+    },
+    {
+        "timestamp": 1714597559000,
+        "value": "false",
+        "timeStr": "2024-05-01 18:05:59"
+    },
+    {
+        "timestamp": 1733694804000,
+        "value": "true",
+        "timeStr": "2024-12-08 18:53:24"
+    },
+    {
+        "timestamp": 1713503074000,
+        "value": "false",
+        "timeStr": "2024-04-19 02:04:34"
+    },
+    {
+        "timestamp": 1708422618000,
+        "value": "false",
+        "timeStr": "2024-02-20 06:50:18"
+    },
+    {
+        "timestamp": 1733460184000,
+        "value": "false",
+        "timeStr": "2024-12-06 01:43:04"
+    },
+    {
+        "timestamp": 1721717804000,
+        "value": "true",
+        "timeStr": "2024-07-23 03:56:44"
+    },
+    {
+        "timestamp": 1729880253000,
+        "value": "true",
+        "timeStr": "2024-10-25 15:17:33"
+    },
+    {
+        "timestamp": 1731675916000,
+        "value": "false",
+        "timeStr": "2024-11-15 10:05:16"
+    },
+    {
+        "timestamp": 1714281272000,
+        "value": "false",
+        "timeStr": "2024-04-28 02:14:32"
+    },
+    {
+        "timestamp": 1728728198000,
+        "value": "false",
+        "timeStr": "2024-10-12 07:16:38"
+    },
+    {
+        "timestamp": 1724310766000,
+        "value": "false",
+        "timeStr": "2024-08-22 04:12:46"
+    },
+    {
+        "timestamp": 1732688244000,
+        "value": "true",
+        "timeStr": "2024-11-27 03:17:24"
+    },
+    {
+        "timestamp": 1710827332000,
+        "value": "true",
+        "timeStr": "2024-03-19 02:48:52"
+    },
+    {
+        "timestamp": 1732414035000,
+        "value": "false",
+        "timeStr": "2024-11-23 23:07:15"
+    },
+    {
+        "timestamp": 1718163339000,
+        "value": "false",
+        "timeStr": "2024-06-12 00:35:39"
+    },
+    {
+        "timestamp": 1724216312000,
+        "value": "false",
+        "timeStr": "2024-08-21 01:58:32"
+    },
+    {
+        "timestamp": 1729396996000,
+        "value": "false",
+        "timeStr": "2024-10-20 01:03:16"
+    },
+    {
+        "timestamp": 1708987687000,
+        "value": "false",
+        "timeStr": "2024-02-26 19:48:07"
+    },
+    {
+        "timestamp": 1711366954000,
+        "value": "true",
+        "timeStr": "2024-03-25 08:42:34"
+    },
+    {
+        "timestamp": 1729169459000,
+        "value": "false",
+        "timeStr": "2024-10-17 09:50:59"
+    },
+    {
+        "timestamp": 1723553739000,
+        "value": "true",
+        "timeStr": "2024-08-13 09:55:39"
+    },
+    {
+        "timestamp": 1727158143000,
+        "value": "true",
+        "timeStr": "2024-09-24 03:09:03"
+    },
+    {
+        "timestamp": 1727530797000,
+        "value": "false",
+        "timeStr": "2024-09-28 10:39:57"
+    },
+    {
+        "timestamp": 1712865525000,
+        "value": "false",
+        "timeStr": "2024-04-11 16:58:45"
+    },
+    {
+        "timestamp": 1718204737000,
+        "value": "false",
+        "timeStr": "2024-06-12 12:05:37"
+    },
+    {
+        "timestamp": 1726809001000,
+        "value": "false",
+        "timeStr": "2024-09-20 02:10:01"
+    },
+    {
+        "timestamp": 1712492333000,
+        "value": "false",
+        "timeStr": "2024-04-07 09:18:53"
+    },
+    {
+        "timestamp": 1733165113000,
+        "value": "false",
+        "timeStr": "2024-12-02 15:45:13"
+    },
+    {
+        "timestamp": 1705687746000,
+        "value": "false",
+        "timeStr": "2024-01-19 15:09:06"
+    },
+    {
+        "timestamp": 1722441929000,
+        "value": "false",
+        "timeStr": "2024-07-31 13:05:29"
+    },
+    {
+        "timestamp": 1732153999000,
+        "value": "true",
+        "timeStr": "2024-11-20 22:53:19"
+    },
+    {
+        "timestamp": 1735234430000,
+        "value": "true",
+        "timeStr": "2024-12-26 14:33:50"
+    },
+    {
+        "timestamp": 1730898302000,
+        "value": "false",
+        "timeStr": "2024-11-06 10:05:02"
+    },
+    {
+        "timestamp": 1711205765000,
+        "value": "false",
+        "timeStr": "2024-03-23 11:56:05"
+    },
+    {
+        "timestamp": 1714074718000,
+        "value": "true",
+        "timeStr": "2024-04-25 16:51:58"
+    },
+    {
+        "timestamp": 1729375788000,
+        "value": "true",
+        "timeStr": "2024-10-19 19:09:48"
+    },
+    {
+        "timestamp": 1734337178000,
+        "value": "false",
+        "timeStr": "2024-12-16 05:19:38"
+    },
+    {
+        "timestamp": 1720989856000,
+        "value": "true",
+        "timeStr": "2024-07-14 17:44:16"
+    },
+    {
+        "timestamp": 1730002371000,
+        "value": "false",
+        "timeStr": "2024-10-27 01:12:51"
+    },
+    {
+        "timestamp": 1709556480000,
+        "value": "true",
+        "timeStr": "2024-03-04 09:48:00"
+    },
+    {
+        "timestamp": 1733568759000,
+        "value": "true",
+        "timeStr": "2024-12-07 07:52:39"
+    },
+    {
+        "timestamp": 1721230366000,
+        "value": "false",
+        "timeStr": "2024-07-17 12:32:46"
+    },
+    {
+        "timestamp": 1715622596000,
+        "value": "true",
+        "timeStr": "2024-05-13 14:49:56"
+    },
+    {
+        "timestamp": 1716710592000,
+        "value": "true",
+        "timeStr": "2024-05-26 05:03:12"
+    },
+    {
+        "timestamp": 1733038730000,
+        "value": "false",
+        "timeStr": "2024-12-01 04:38:50"
+    },
+    {
+        "timestamp": 1712039182000,
+        "value": "true",
+        "timeStr": "2024-04-02 03:26:22"
+    },
+    {
+        "timestamp": 1722267630000,
+        "value": "true",
+        "timeStr": "2024-07-29 12:40:30"
+    },
+    {
+        "timestamp": 1709817329000,
+        "value": "false",
+        "timeStr": "2024-03-07 10:15:29"
+    },
+    {
+        "timestamp": 1735492608000,
+        "value": "false",
+        "timeStr": "2024-12-29 14:16:48"
+    },
+    {
+        "timestamp": 1704498596000,
+        "value": "true",
+        "timeStr": "2024-01-05 20:49:56"
+    },
+    {
+        "timestamp": 1732691898000,
+        "value": "false",
+        "timeStr": "2024-11-27 04:18:18"
+    },
+    {
+        "timestamp": 1716493591000,
+        "value": "false",
+        "timeStr": "2024-05-23 16:46:31"
+    },
+    {
+        "timestamp": 1710937312000,
+        "value": "true",
+        "timeStr": "2024-03-20 09:21:52"
+    },
+    {
+        "timestamp": 1710170816000,
+        "value": "false",
+        "timeStr": "2024-03-11 12:26:56"
+    },
+    {
+        "timestamp": 1726886438000,
+        "value": "true",
+        "timeStr": "2024-09-20 23:40:38"
+    },
+    {
+        "timestamp": 1713011805000,
+        "value": "true",
+        "timeStr": "2024-04-13 09:36:45"
+    },
+    {
+        "timestamp": 1728467048000,
+        "value": "true",
+        "timeStr": "2024-10-09 06:44:08"
+    },
+    {
+        "timestamp": 1729972723000,
+        "value": "true",
+        "timeStr": "2024-10-26 16:58:43"
+    },
+    {
+        "timestamp": 1735407797000,
+        "value": "true",
+        "timeStr": "2024-12-28 14:43:17"
+    },
+    {
+        "timestamp": 1705181648000,
+        "value": "true",
+        "timeStr": "2024-01-13 18:34:08"
+    },
+    {
+        "timestamp": 1708949454000,
+        "value": "false",
+        "timeStr": "2024-02-26 09:10:54"
+    },
+    {
+        "timestamp": 1730266703000,
+        "value": "true",
+        "timeStr": "2024-10-30 02:38:23"
+    },
+    {
+        "timestamp": 1708404195000,
+        "value": "false",
+        "timeStr": "2024-02-20 01:43:15"
+    },
+    {
+        "timestamp": 1734503260000,
+        "value": "false",
+        "timeStr": "2024-12-18 03:27:40"
+    },
+    {
+        "timestamp": 1732264766000,
+        "value": "false",
+        "timeStr": "2024-11-22 05:39:26"
+    },
+    {
+        "timestamp": 1712451073000,
+        "value": "true",
+        "timeStr": "2024-04-06 21:51:13"
+    },
+    {
+        "timestamp": 1726768071000,
+        "value": "false",
+        "timeStr": "2024-09-19 14:47:51"
+    },
+    {
+        "timestamp": 1728109232000,
+        "value": "true",
+        "timeStr": "2024-10-05 03:20:32"
+    },
+    {
+        "timestamp": 1708102045000,
+        "value": "true",
+        "timeStr": "2024-02-16 13:47:25"
+    },
+    {
+        "timestamp": 1725270900000,
+        "value": "true",
+        "timeStr": "2024-09-02 06:55:00"
+    },
+    {
+        "timestamp": 1705635650000,
+        "value": "true",
+        "timeStr": "2024-01-19 00:40:50"
+    },
+    {
+        "timestamp": 1709296970000,
+        "value": "false",
+        "timeStr": "2024-03-01 09:42:50"
+    },
+    {
+        "timestamp": 1718989201000,
+        "value": "false",
+        "timeStr": "2024-06-21 14:00:01"
+    },
+    {
+        "timestamp": 1726379872000,
+        "value": "false",
+        "timeStr": "2024-09-15 02:57:52"
+    },
+    {
+        "timestamp": 1714845618000,
+        "value": "true",
+        "timeStr": "2024-05-04 15:00:18"
+    },
+    {
+        "timestamp": 1707540033000,
+        "value": "false",
+        "timeStr": "2024-02-10 01:40:33"
+    },
+    {
+        "timestamp": 1718753515000,
+        "value": "false",
+        "timeStr": "2024-06-18 20:31:55"
+    },
+    {
+        "timestamp": 1707392880000,
+        "value": "true",
+        "timeStr": "2024-02-08 08:48:00"
+    },
+    {
+        "timestamp": 1719875859000,
+        "value": "false",
+        "timeStr": "2024-07-01 20:17:39"
+    },
+    {
+        "timestamp": 1704364784000,
+        "value": "false",
+        "timeStr": "2024-01-04 07:39:44"
+    },
+    {
+        "timestamp": 1731403586000,
+        "value": "false",
+        "timeStr": "2024-11-12 06:26:26"
+    },
+    {
+        "timestamp": 1723189335000,
+        "value": "false",
+        "timeStr": "2024-08-09 04:42:15"
+    },
+    {
+        "timestamp": 1724167985000,
+        "value": "true",
+        "timeStr": "2024-08-20 12:33:05"
+    },
+    {
+        "timestamp": 1718183489000,
+        "value": "true",
+        "timeStr": "2024-06-12 06:11:29"
+    },
+    {
+        "timestamp": 1704388769000,
+        "value": "true",
+        "timeStr": "2024-01-04 14:19:29"
+    },
+    {
+        "timestamp": 1721475463000,
+        "value": "true",
+        "timeStr": "2024-07-20 08:37:43"
+    },
+    {
+        "timestamp": 1715227349000,
+        "value": "false",
+        "timeStr": "2024-05-09 01:02:29"
+    },
+    {
+        "timestamp": 1704613714000,
+        "value": "true",
+        "timeStr": "2024-01-07 04:48:34"
+    },
+    {
+        "timestamp": 1704652522000,
+        "value": "true",
+        "timeStr": "2024-01-07 15:35:22"
+    },
+    {
+        "timestamp": 1717106392000,
+        "value": "true",
+        "timeStr": "2024-05-30 18:59:52"
+    },
+    {
+        "timestamp": 1721347075000,
+        "value": "false",
+        "timeStr": "2024-07-18 20:57:55"
+    },
+    {
+        "timestamp": 1720320761000,
+        "value": "false",
+        "timeStr": "2024-07-06 23:52:41"
+    },
+    {
+        "timestamp": 1719176801000,
+        "value": "false",
+        "timeStr": "2024-06-23 18:06:41"
+    },
+    {
+        "timestamp": 1711186641000,
+        "value": "true",
+        "timeStr": "2024-03-23 06:37:21"
+    },
+    {
+        "timestamp": 1725761822000,
+        "value": "true",
+        "timeStr": "2024-09-07 23:17:02"
+    },
+    {
+        "timestamp": 1708889697000,
+        "value": "true",
+        "timeStr": "2024-02-25 16:34:57"
+    },
+    {
+        "timestamp": 1722205855000,
+        "value": "true",
+        "timeStr": "2024-07-28 19:30:55"
+    },
+    {
+        "timestamp": 1711741019000,
+        "value": "true",
+        "timeStr": "2024-03-29 16:36:59"
+    },
+    {
+        "timestamp": 1711601015000,
+        "value": "true",
+        "timeStr": "2024-03-28 01:43:35"
+    },
+    {
+        "timestamp": 1714158224000,
+        "value": "true",
+        "timeStr": "2024-04-26 16:03:44"
+    },
+    {
+        "timestamp": 1720735493000,
+        "value": "false",
+        "timeStr": "2024-07-11 19:04:53"
+    },
+    {
+        "timestamp": 1710202905000,
+        "value": "false",
+        "timeStr": "2024-03-11 21:21:45"
+    },
+    {
+        "timestamp": 1722178382000,
+        "value": "false",
+        "timeStr": "2024-07-28 11:53:02"
+    },
+    {
+        "timestamp": 1704549377000,
+        "value": "false",
+        "timeStr": "2024-01-06 10:56:17"
+    },
+    {
+        "timestamp": 1723880003000,
+        "value": "true",
+        "timeStr": "2024-08-17 04:33:23"
+    },
+    {
+        "timestamp": 1707901037000,
+        "value": "false",
+        "timeStr": "2024-02-14 05:57:17"
+    },
+    {
+        "timestamp": 1712689569000,
+        "value": "false",
+        "timeStr": "2024-04-09 16:06:09"
+    },
+    {
+        "timestamp": 1718653464000,
+        "value": "true",
+        "timeStr": "2024-06-17 16:44:24"
+    },
+    {
+        "timestamp": 1733916943000,
+        "value": "true",
+        "timeStr": "2024-12-11 08:35:43"
+    },
+    {
+        "timestamp": 1727677000000,
+        "value": "false",
+        "timeStr": "2024-09-30 03:16:40"
+    },
+    {
+        "timestamp": 1730998531000,
+        "value": "false",
+        "timeStr": "2024-11-07 13:55:31"
+    },
+    {
+        "timestamp": 1727580974000,
+        "value": "true",
+        "timeStr": "2024-09-29 00:36:14"
+    },
+    {
+        "timestamp": 1719760587000,
+        "value": "true",
+        "timeStr": "2024-06-30 12:16:27"
+    },
+    {
+        "timestamp": 1722589155000,
+        "value": "false",
+        "timeStr": "2024-08-02 05:59:15"
+    },
+    {
+        "timestamp": 1720718346000,
+        "value": "true",
+        "timeStr": "2024-07-11 14:19:06"
+    },
+    {
+        "timestamp": 1735232674000,
+        "value": "true",
+        "timeStr": "2024-12-26 14:04:34"
+    },
+    {
+        "timestamp": 1733550462000,
+        "value": "false",
+        "timeStr": "2024-12-07 02:47:42"
+    },
+    {
+        "timestamp": 1713707725000,
+        "value": "false",
+        "timeStr": "2024-04-21 10:55:25"
+    },
+    {
+        "timestamp": 1730254617000,
+        "value": "true",
+        "timeStr": "2024-10-29 23:16:57"
+    },
+    {
+        "timestamp": 1733976623000,
+        "value": "true",
+        "timeStr": "2024-12-12 01:10:23"
+    },
+    {
+        "timestamp": 1726934856000,
+        "value": "true",
+        "timeStr": "2024-09-21 13:07:36"
+    },
+    {
+        "timestamp": 1714023505000,
+        "value": "false",
+        "timeStr": "2024-04-25 02:38:25"
+    },
+    {
+        "timestamp": 1733511885000,
+        "value": "true",
+        "timeStr": "2024-12-06 16:04:45"
+    },
+    {
+        "timestamp": 1727551399000,
+        "value": "false",
+        "timeStr": "2024-09-28 16:23:19"
+    },
+    {
+        "timestamp": 1729292318000,
+        "value": "false",
+        "timeStr": "2024-10-18 19:58:38"
+    },
+    {
+        "timestamp": 1733873186000,
+        "value": "false",
+        "timeStr": "2024-12-10 20:26:26"
+    },
+    {
+        "timestamp": 1723731917000,
+        "value": "false",
+        "timeStr": "2024-08-15 11:25:17"
+    },
+    {
+        "timestamp": 1712092396000,
+        "value": "false",
+        "timeStr": "2024-04-02 18:13:16"
+    },
+    {
+        "timestamp": 1705635714000,
+        "value": "false",
+        "timeStr": "2024-01-19 00:41:54"
+    },
+    {
+        "timestamp": 1711743657000,
+        "value": "true",
+        "timeStr": "2024-03-29 17:20:57"
+    },
+    {
+        "timestamp": 1715007101000,
+        "value": "false",
+        "timeStr": "2024-05-06 11:51:41"
+    },
+    {
+        "timestamp": 1723375707000,
+        "value": "true",
+        "timeStr": "2024-08-11 08:28:27"
+    },
+    {
+        "timestamp": 1704477212000,
+        "value": "false",
+        "timeStr": "2024-01-05 14:53:32"
+    },
+    {
+        "timestamp": 1731032354000,
+        "value": "true",
+        "timeStr": "2024-11-07 23:19:14"
+    },
+    {
+        "timestamp": 1733898273000,
+        "value": "true",
+        "timeStr": "2024-12-11 03:24:33"
+    },
+    {
+        "timestamp": 1730573713000,
+        "value": "false",
+        "timeStr": "2024-11-02 15:55:13"
+    },
+    {
+        "timestamp": 1704769869000,
+        "value": "false",
+        "timeStr": "2024-01-09 00:11:09"
+    },
+    {
+        "timestamp": 1709640269000,
+        "value": "false",
+        "timeStr": "2024-03-05 09:04:29"
+    },
+    {
+        "timestamp": 1706230198000,
+        "value": "true",
+        "timeStr": "2024-01-25 21:49:58"
+    },
+    {
+        "timestamp": 1717830513000,
+        "value": "false",
+        "timeStr": "2024-06-08 04:08:33"
+    },
+    {
+        "timestamp": 1713586846000,
+        "value": "false",
+        "timeStr": "2024-04-20 01:20:46"
+    },
+    {
+        "timestamp": 1727472027000,
+        "value": "true",
+        "timeStr": "2024-09-27 18:20:27"
+    },
+    {
+        "timestamp": 1728826189000,
+        "value": "true",
+        "timeStr": "2024-10-13 10:29:49"
+    },
+    {
+        "timestamp": 1710444662000,
+        "value": "true",
+        "timeStr": "2024-03-14 16:31:02"
+    },
+    {
+        "timestamp": 1727808141000,
+        "value": "false",
+        "timeStr": "2024-10-01 15:42:21"
+    },
+    {
+        "timestamp": 1728689024000,
+        "value": "false",
+        "timeStr": "2024-10-11 20:23:44"
+    },
+    {
+        "timestamp": 1717365376000,
+        "value": "false",
+        "timeStr": "2024-06-02 18:56:16"
+    },
+    {
+        "timestamp": 1715746383000,
+        "value": "true",
+        "timeStr": "2024-05-15 01:13:03"
+    },
+    {
+        "timestamp": 1704501936000,
+        "value": "false",
+        "timeStr": "2024-01-05 21:45:36"
+    },
+    {
+        "timestamp": 1726465480000,
+        "value": "false",
+        "timeStr": "2024-09-16 02:44:40"
+    },
+    {
+        "timestamp": 1710314461000,
+        "value": "true",
+        "timeStr": "2024-03-13 04:21:01"
+    },
+    {
+        "timestamp": 1729800647000,
+        "value": "false",
+        "timeStr": "2024-10-24 17:10:47"
+    },
+    {
+        "timestamp": 1712444571000,
+        "value": "true",
+        "timeStr": "2024-04-06 20:02:51"
+    },
+    {
+        "timestamp": 1731046727000,
+        "value": "false",
+        "timeStr": "2024-11-08 03:18:47"
+    },
+    {
+        "timestamp": 1706230440000,
+        "value": "true",
+        "timeStr": "2024-01-25 21:54:00"
+    },
+    {
+        "timestamp": 1717035976000,
+        "value": "false",
+        "timeStr": "2024-05-29 23:26:16"
+    },
+    {
+        "timestamp": 1707587854000,
+        "value": "false",
+        "timeStr": "2024-02-10 14:57:34"
+    },
+    {
+        "timestamp": 1729904472000,
+        "value": "true",
+        "timeStr": "2024-10-25 22:01:12"
+    },
+    {
+        "timestamp": 1730055688000,
+        "value": "true",
+        "timeStr": "2024-10-27 16:01:28"
+    },
+    {
+        "timestamp": 1709324519000,
+        "value": "true",
+        "timeStr": "2024-03-01 17:21:59"
+    },
+    {
+        "timestamp": 1713919582000,
+        "value": "true",
+        "timeStr": "2024-04-23 21:46:22"
+    },
+    {
+        "timestamp": 1716888163000,
+        "value": "true",
+        "timeStr": "2024-05-28 06:22:43"
+    },
+    {
+        "timestamp": 1728043562000,
+        "value": "false",
+        "timeStr": "2024-10-04 09:06:02"
+    },
+    {
+        "timestamp": 1733030491000,
+        "value": "true",
+        "timeStr": "2024-12-01 02:21:31"
+    },
+    {
+        "timestamp": 1710044601000,
+        "value": "false",
+        "timeStr": "2024-03-10 01:23:21"
+    },
+    {
+        "timestamp": 1734788661000,
+        "value": "true",
+        "timeStr": "2024-12-21 10:44:21"
+    },
+    {
+        "timestamp": 1713457168000,
+        "value": "false",
+        "timeStr": "2024-04-18 13:19:28"
+    },
+    {
+        "timestamp": 1709293846000,
+        "value": "false",
+        "timeStr": "2024-03-01 08:50:46"
+    },
+    {
+        "timestamp": 1715455310000,
+        "value": "false",
+        "timeStr": "2024-05-11 16:21:50"
+    },
+    {
+        "timestamp": 1728152515000,
+        "value": "true",
+        "timeStr": "2024-10-05 15:21:55"
+    },
+    {
+        "timestamp": 1717572849000,
+        "value": "false",
+        "timeStr": "2024-06-05 04:34:09"
+    },
+    {
+        "timestamp": 1706359199000,
+        "value": "false",
+        "timeStr": "2024-01-27 09:39:59"
+    },
+    {
+        "timestamp": 1728781781000,
+        "value": "true",
+        "timeStr": "2024-10-12 22:09:41"
+    },
+    {
+        "timestamp": 1734262316000,
+        "value": "false",
+        "timeStr": "2024-12-15 08:31:56"
+    },
+    {
+        "timestamp": 1709618255000,
+        "value": "false",
+        "timeStr": "2024-03-05 02:57:35"
+    },
+    {
+        "timestamp": 1727360466000,
+        "value": "true",
+        "timeStr": "2024-09-26 11:21:06"
+    },
+    {
+        "timestamp": 1732346842000,
+        "value": "true",
+        "timeStr": "2024-11-23 04:27:22"
+    },
+    {
+        "timestamp": 1709775218000,
+        "value": "true",
+        "timeStr": "2024-03-06 22:33:38"
+    },
+    {
+        "timestamp": 1710945279000,
+        "value": "false",
+        "timeStr": "2024-03-20 11:34:39"
+    },
+    {
+        "timestamp": 1714379537000,
+        "value": "false",
+        "timeStr": "2024-04-29 05:32:17"
+    },
+    {
+        "timestamp": 1726070997000,
+        "value": "true",
+        "timeStr": "2024-09-11 13:09:57"
+    },
+    {
+        "timestamp": 1732456647000,
+        "value": "true",
+        "timeStr": "2024-11-24 10:57:27"
+    },
+    {
+        "timestamp": 1707413068000,
+        "value": "false",
+        "timeStr": "2024-02-08 14:24:28"
+    },
+    {
+        "timestamp": 1710405291000,
+        "value": "true",
+        "timeStr": "2024-03-14 05:34:51"
+    },
+    {
+        "timestamp": 1724351397000,
+        "value": "false",
+        "timeStr": "2024-08-22 15:29:57"
+    },
+    {
+        "timestamp": 1722379517000,
+        "value": "true",
+        "timeStr": "2024-07-30 19:45:17"
+    },
+    {
+        "timestamp": 1735466288000,
+        "value": "true",
+        "timeStr": "2024-12-29 06:58:08"
+    },
+    {
+        "timestamp": 1711677962000,
+        "value": "false",
+        "timeStr": "2024-03-28 23:06:02"
+    },
+    {
+        "timestamp": 1727713659000,
+        "value": "true",
+        "timeStr": "2024-09-30 13:27:39"
+    },
+    {
+        "timestamp": 1722114778000,
+        "value": "false",
+        "timeStr": "2024-07-27 18:12:58"
+    },
+    {
+        "timestamp": 1720776207000,
+        "value": "true",
+        "timeStr": "2024-07-12 06:23:27"
+    },
+    {
+        "timestamp": 1726862666000,
+        "value": "true",
+        "timeStr": "2024-09-20 17:04:26"
+    },
+    {
+        "timestamp": 1712166928000,
+        "value": "false",
+        "timeStr": "2024-04-03 14:55:28"
+    },
+    {
+        "timestamp": 1730896005000,
+        "value": "true",
+        "timeStr": "2024-11-06 09:26:45"
+    },
+    {
+        "timestamp": 1729836624000,
+        "value": "false",
+        "timeStr": "2024-10-25 03:10:24"
+    },
+    {
+        "timestamp": 1705502041000,
+        "value": "false",
+        "timeStr": "2024-01-17 11:34:01"
+    },
+    {
+        "timestamp": 1718110537000,
+        "value": "false",
+        "timeStr": "2024-06-11 09:55:37"
+    },
+    {
+        "timestamp": 1730081707000,
+        "value": "true",
+        "timeStr": "2024-10-27 23:15:07"
+    },
+    {
+        "timestamp": 1706066839000,
+        "value": "true",
+        "timeStr": "2024-01-24 00:27:19"
+    },
+    {
+        "timestamp": 1706658724000,
+        "value": "true",
+        "timeStr": "2024-01-30 20:52:04"
+    },
+    {
+        "timestamp": 1714718334000,
+        "value": "false",
+        "timeStr": "2024-05-03 03:38:54"
+    },
+    {
+        "timestamp": 1709913907000,
+        "value": "true",
+        "timeStr": "2024-03-08 13:05:07"
+    },
+    {
+        "timestamp": 1708995671000,
+        "value": "false",
+        "timeStr": "2024-02-26 22:01:11"
+    },
+    {
+        "timestamp": 1725947155000,
+        "value": "false",
+        "timeStr": "2024-09-10 02:45:55"
+    },
+    {
+        "timestamp": 1721335854000,
+        "value": "true",
+        "timeStr": "2024-07-18 17:50:54"
+    },
+    {
+        "timestamp": 1704649229000,
+        "value": "false",
+        "timeStr": "2024-01-07 14:40:29"
+    },
+    {
+        "timestamp": 1724037665000,
+        "value": "false",
+        "timeStr": "2024-08-19 00:21:05"
+    },
+    {
+        "timestamp": 1707285489000,
+        "value": "true",
+        "timeStr": "2024-02-07 02:58:09"
+    },
+    {
+        "timestamp": 1714025548000,
+        "value": "false",
+        "timeStr": "2024-04-25 03:12:28"
+    },
+    {
+        "timestamp": 1728960818000,
+        "value": "true",
+        "timeStr": "2024-10-14 23:53:38"
+    },
+    {
+        "timestamp": 1731369488000,
+        "value": "false",
+        "timeStr": "2024-11-11 20:58:08"
+    },
+    {
+        "timestamp": 1706294689000,
+        "value": "true",
+        "timeStr": "2024-01-26 15:44:49"
+    },
+    {
+        "timestamp": 1704526543000,
+        "value": "false",
+        "timeStr": "2024-01-06 04:35:43"
+    },
+    {
+        "timestamp": 1714166302000,
+        "value": "false",
+        "timeStr": "2024-04-26 18:18:22"
+    },
+    {
+        "timestamp": 1732921326000,
+        "value": "true",
+        "timeStr": "2024-11-29 20:02:06"
+    },
+    {
+        "timestamp": 1721779049000,
+        "value": "false",
+        "timeStr": "2024-07-23 20:57:29"
+    },
+    {
+        "timestamp": 1712105389000,
+        "value": "true",
+        "timeStr": "2024-04-02 21:49:49"
+    },
+    {
+        "timestamp": 1712983158000,
+        "value": "true",
+        "timeStr": "2024-04-13 01:39:18"
+    },
+    {
+        "timestamp": 1732097392000,
+        "value": "true",
+        "timeStr": "2024-11-20 07:09:52"
+    },
+    {
+        "timestamp": 1708548425000,
+        "value": "true",
+        "timeStr": "2024-02-21 17:47:05"
+    },
+    {
+        "timestamp": 1705897193000,
+        "value": "true",
+        "timeStr": "2024-01-22 01:19:53"
+    },
+    {
+        "timestamp": 1712434556000,
+        "value": "true",
+        "timeStr": "2024-04-06 17:15:56"
+    },
+    {
+        "timestamp": 1716494285000,
+        "value": "true",
+        "timeStr": "2024-05-23 16:58:05"
+    },
+    {
+        "timestamp": 1734708808000,
+        "value": "true",
+        "timeStr": "2024-12-20 12:33:28"
+    },
+    {
+        "timestamp": 1726146180000,
+        "value": "false",
+        "timeStr": "2024-09-12 10:03:00"
+    },
+    {
+        "timestamp": 1734864626000,
+        "value": "true",
+        "timeStr": "2024-12-22 07:50:26"
+    },
+    {
+        "timestamp": 1732264414000,
+        "value": "false",
+        "timeStr": "2024-11-22 05:33:34"
+    },
+    {
+        "timestamp": 1728634595000,
+        "value": "false",
+        "timeStr": "2024-10-11 05:16:35"
+    },
+    {
+        "timestamp": 1729098077000,
+        "value": "false",
+        "timeStr": "2024-10-16 14:01:17"
+    },
+    {
+        "timestamp": 1711969858000,
+        "value": "false",
+        "timeStr": "2024-04-01 08:10:58"
+    },
+    {
+        "timestamp": 1734518821000,
+        "value": "false",
+        "timeStr": "2024-12-18 07:47:01"
+    },
+    {
+        "timestamp": 1715069149000,
+        "value": "true",
+        "timeStr": "2024-05-07 05:05:49"
+    },
+    {
+        "timestamp": 1727624919000,
+        "value": "false",
+        "timeStr": "2024-09-29 12:48:39"
+    },
+    {
+        "timestamp": 1705315128000,
+        "value": "true",
+        "timeStr": "2024-01-15 07:38:48"
+    },
+    {
+        "timestamp": 1731413020000,
+        "value": "false",
+        "timeStr": "2024-11-12 09:03:40"
+    },
+    {
+        "timestamp": 1713742846000,
+        "value": "true",
+        "timeStr": "2024-04-21 20:40:46"
+    },
+    {
+        "timestamp": 1714679322000,
+        "value": "true",
+        "timeStr": "2024-05-02 16:48:42"
+    },
+    {
+        "timestamp": 1709686572000,
+        "value": "true",
+        "timeStr": "2024-03-05 21:56:12"
+    },
+    {
+        "timestamp": 1717088313000,
+        "value": "false",
+        "timeStr": "2024-05-30 13:58:33"
+    },
+    {
+        "timestamp": 1705167777000,
+        "value": "true",
+        "timeStr": "2024-01-13 14:42:57"
+    },
+    {
+        "timestamp": 1723960432000,
+        "value": "true",
+        "timeStr": "2024-08-18 02:53:52"
+    },
+    {
+        "timestamp": 1732093955000,
+        "value": "false",
+        "timeStr": "2024-11-20 06:12:35"
+    },
+    {
+        "timestamp": 1717928616000,
+        "value": "false",
+        "timeStr": "2024-06-09 07:23:36"
+    },
+    {
+        "timestamp": 1716730733000,
+        "value": "false",
+        "timeStr": "2024-05-26 10:38:53"
+    },
+    {
+        "timestamp": 1704616939000,
+        "value": "false",
+        "timeStr": "2024-01-07 05:42:19"
+    },
+    {
+        "timestamp": 1717126440000,
+        "value": "false",
+        "timeStr": "2024-05-31 00:34:00"
+    },
+    {
+        "timestamp": 1729509484000,
+        "value": "false",
+        "timeStr": "2024-10-21 08:18:04"
+    },
+    {
+        "timestamp": 1726063750000,
+        "value": "true",
+        "timeStr": "2024-09-11 11:09:10"
+    },
+    {
+        "timestamp": 1723192845000,
+        "value": "false",
+        "timeStr": "2024-08-09 05:40:45"
+    },
+    {
+        "timestamp": 1721248224000,
+        "value": "true",
+        "timeStr": "2024-07-17 17:30:24"
+    },
+    {
+        "timestamp": 1706733624000,
+        "value": "false",
+        "timeStr": "2024-01-31 17:40:24"
+    },
+    {
+        "timestamp": 1733653820000,
+        "value": "true",
+        "timeStr": "2024-12-08 07:30:20"
+    },
+    {
+        "timestamp": 1707339722000,
+        "value": "false",
+        "timeStr": "2024-02-07 18:02:02"
+    },
+    {
+        "timestamp": 1728853484000,
+        "value": "true",
+        "timeStr": "2024-10-13 18:04:44"
+    },
+    {
+        "timestamp": 1711705627000,
+        "value": "true",
+        "timeStr": "2024-03-29 06:47:07"
+    },
+    {
+        "timestamp": 1723996317000,
+        "value": "false",
+        "timeStr": "2024-08-18 12:51:57"
+    },
+    {
+        "timestamp": 1724488900000,
+        "value": "true",
+        "timeStr": "2024-08-24 05:41:40"
+    },
+    {
+        "timestamp": 1712434039000,
+        "value": "true",
+        "timeStr": "2024-04-06 17:07:19"
+    },
+    {
+        "timestamp": 1720620986000,
+        "value": "true",
+        "timeStr": "2024-07-10 11:16:26"
+    },
+    {
+        "timestamp": 1716782785000,
+        "value": "true",
+        "timeStr": "2024-05-27 01:06:25"
+    },
+    {
+        "timestamp": 1717234475000,
+        "value": "false",
+        "timeStr": "2024-06-01 06:34:35"
+    },
+    {
+        "timestamp": 1723368935000,
+        "value": "true",
+        "timeStr": "2024-08-11 06:35:35"
+    },
+    {
+        "timestamp": 1721701294000,
+        "value": "true",
+        "timeStr": "2024-07-22 23:21:34"
+    },
+    {
+        "timestamp": 1722466666000,
+        "value": "true",
+        "timeStr": "2024-07-31 19:57:46"
+    },
+    {
+        "timestamp": 1707918404000,
+        "value": "true",
+        "timeStr": "2024-02-14 10:46:44"
+    },
+    {
+        "timestamp": 1732991862000,
+        "value": "true",
+        "timeStr": "2024-11-30 15:37:42"
+    },
+    {
+        "timestamp": 1714336286000,
+        "value": "false",
+        "timeStr": "2024-04-28 17:31:26"
+    },
+    {
+        "timestamp": 1726306146000,
+        "value": "false",
+        "timeStr": "2024-09-14 06:29:06"
+    },
+    {
+        "timestamp": 1715916547000,
+        "value": "false",
+        "timeStr": "2024-05-17 00:29:07"
+    },
+    {
+        "timestamp": 1712112619000,
+        "value": "true",
+        "timeStr": "2024-04-02 23:50:19"
+    },
+    {
+        "timestamp": 1728133520000,
+        "value": "false",
+        "timeStr": "2024-10-05 10:05:20"
+    },
+    {
+        "timestamp": 1721780175000,
+        "value": "false",
+        "timeStr": "2024-07-23 21:16:15"
+    },
+    {
+        "timestamp": 1717062580000,
+        "value": "false",
+        "timeStr": "2024-05-30 06:49:40"
+    },
+    {
+        "timestamp": 1721135615000,
+        "value": "false",
+        "timeStr": "2024-07-16 10:13:35"
+    },
+    {
+        "timestamp": 1722706699000,
+        "value": "true",
+        "timeStr": "2024-08-03 14:38:19"
+    },
+    {
+        "timestamp": 1732041767000,
+        "value": "true",
+        "timeStr": "2024-11-19 15:42:47"
+    },
+    {
+        "timestamp": 1734303733000,
+        "value": "true",
+        "timeStr": "2024-12-15 20:02:13"
+    },
+    {
+        "timestamp": 1714929373000,
+        "value": "false",
+        "timeStr": "2024-05-05 14:16:13"
+    },
+    {
+        "timestamp": 1729955168000,
+        "value": "false",
+        "timeStr": "2024-10-26 12:06:08"
+    },
+    {
+        "timestamp": 1728360120000,
+        "value": "true",
+        "timeStr": "2024-10-08 01:02:00"
+    },
+    {
+        "timestamp": 1732673492000,
+        "value": "false",
+        "timeStr": "2024-11-26 23:11:32"
+    },
+    {
+        "timestamp": 1726159465000,
+        "value": "false",
+        "timeStr": "2024-09-12 13:44:25"
+    },
+    {
+        "timestamp": 1726543764000,
+        "value": "false",
+        "timeStr": "2024-09-17 00:29:24"
+    },
+    {
+        "timestamp": 1730024985000,
+        "value": "true",
+        "timeStr": "2024-10-27 07:29:45"
+    },
+    {
+        "timestamp": 1724421760000,
+        "value": "true",
+        "timeStr": "2024-08-23 11:02:40"
+    },
+    {
+        "timestamp": 1734314376000,
+        "value": "false",
+        "timeStr": "2024-12-15 22:59:36"
+    },
+    {
+        "timestamp": 1734062147000,
+        "value": "true",
+        "timeStr": "2024-12-13 00:55:47"
+    },
+    {
+        "timestamp": 1716932045000,
+        "value": "true",
+        "timeStr": "2024-05-28 18:34:05"
+    },
+    {
+        "timestamp": 1710981870000,
+        "value": "false",
+        "timeStr": "2024-03-20 21:44:30"
+    },
+    {
+        "timestamp": 1719726946000,
+        "value": "true",
+        "timeStr": "2024-06-30 02:55:46"
+    },
+    {
+        "timestamp": 1718693923000,
+        "value": "false",
+        "timeStr": "2024-06-18 03:58:43"
+    },
+    {
+        "timestamp": 1729604975000,
+        "value": "false",
+        "timeStr": "2024-10-22 10:49:35"
+    },
+    {
+        "timestamp": 1714684589000,
+        "value": "false",
+        "timeStr": "2024-05-02 18:16:29"
+    },
+    {
+        "timestamp": 1704786083000,
+        "value": "true",
+        "timeStr": "2024-01-09 04:41:23"
+    },
+    {
+        "timestamp": 1734796264000,
+        "value": "false",
+        "timeStr": "2024-12-21 12:51:04"
+    },
+    {
+        "timestamp": 1726055885000,
+        "value": "true",
+        "timeStr": "2024-09-11 08:58:05"
+    },
+    {
+        "timestamp": 1715252520000,
+        "value": "false",
+        "timeStr": "2024-05-09 08:02:00"
+    },
+    {
+        "timestamp": 1713765386000,
+        "value": "false",
+        "timeStr": "2024-04-22 02:56:26"
+    },
+    {
+        "timestamp": 1728440989000,
+        "value": "false",
+        "timeStr": "2024-10-08 23:29:49"
+    },
+    {
+        "timestamp": 1706801702000,
+        "value": "false",
+        "timeStr": "2024-02-01 12:35:02"
+    },
+    {
+        "timestamp": 1733352898000,
+        "value": "false",
+        "timeStr": "2024-12-04 19:54:58"
+    },
+    {
+        "timestamp": 1714892991000,
+        "value": "false",
+        "timeStr": "2024-05-05 04:09:51"
+    },
+    {
+        "timestamp": 1730576319000,
+        "value": "true",
+        "timeStr": "2024-11-02 16:38:39"
+    },
+    {
+        "timestamp": 1732499979000,
+        "value": "false",
+        "timeStr": "2024-11-24 22:59:39"
+    },
+    {
+        "timestamp": 1727775800000,
+        "value": "true",
+        "timeStr": "2024-10-01 06:43:20"
+    },
+    {
+        "timestamp": 1715716500000,
+        "value": "true",
+        "timeStr": "2024-05-14 16:55:00"
+    },
+    {
+        "timestamp": 1712805439000,
+        "value": "true",
+        "timeStr": "2024-04-11 00:17:19"
+    },
+    {
+        "timestamp": 1716671729000,
+        "value": "true",
+        "timeStr": "2024-05-25 18:15:29"
+    },
+    {
+        "timestamp": 1735381517000,
+        "value": "true",
+        "timeStr": "2024-12-28 07:25:17"
+    },
+    {
+        "timestamp": 1731888514000,
+        "value": "false",
+        "timeStr": "2024-11-17 21:08:34"
+    },
+    {
+        "timestamp": 1715315501000,
+        "value": "true",
+        "timeStr": "2024-05-10 01:31:41"
+    },
+    {
+        "timestamp": 1723413988000,
+        "value": "true",
+        "timeStr": "2024-08-11 19:06:28"
+    },
+    {
+        "timestamp": 1734328778000,
+        "value": "false",
+        "timeStr": "2024-12-16 02:59:38"
+    },
+    {
+        "timestamp": 1716063289000,
+        "value": "false",
+        "timeStr": "2024-05-18 17:14:49"
+    },
+    {
+        "timestamp": 1735542582000,
+        "value": "true",
+        "timeStr": "2024-12-30 04:09:42"
+    },
+    {
+        "timestamp": 1722809981000,
+        "value": "true",
+        "timeStr": "2024-08-04 19:19:41"
+    },
+    {
+        "timestamp": 1731394904000,
+        "value": "false",
+        "timeStr": "2024-11-12 04:01:44"
+    },
+    {
+        "timestamp": 1711350254000,
+        "value": "true",
+        "timeStr": "2024-03-25 04:04:14"
+    },
+    {
+        "timestamp": 1730405515000,
+        "value": "true",
+        "timeStr": "2024-10-31 17:11:55"
+    },
+    {
+        "timestamp": 1719762197000,
+        "value": "true",
+        "timeStr": "2024-06-30 12:43:17"
+    },
+    {
+        "timestamp": 1710539193000,
+        "value": "false",
+        "timeStr": "2024-03-15 18:46:33"
+    },
+    {
+        "timestamp": 1707079595000,
+        "value": "true",
+        "timeStr": "2024-02-04 17:46:35"
+    },
+    {
+        "timestamp": 1705213519000,
+        "value": "false",
+        "timeStr": "2024-01-14 03:25:19"
+    },
+    {
+        "timestamp": 1732189311000,
+        "value": "true",
+        "timeStr": "2024-11-21 08:41:51"
+    },
+    {
+        "timestamp": 1714403808000,
+        "value": "false",
+        "timeStr": "2024-04-29 12:16:48"
+    },
+    {
+        "timestamp": 1720802389000,
+        "value": "false",
+        "timeStr": "2024-07-12 13:39:49"
+    },
+    {
+        "timestamp": 1720887674000,
+        "value": "false",
+        "timeStr": "2024-07-13 13:21:14"
+    },
+    {
+        "timestamp": 1705799182000,
+        "value": "true",
+        "timeStr": "2024-01-20 22:06:22"
+    },
+    {
+        "timestamp": 1719800577000,
+        "value": "true",
+        "timeStr": "2024-06-30 23:22:57"
+    },
+    {
+        "timestamp": 1708027968000,
+        "value": "false",
+        "timeStr": "2024-02-15 17:12:48"
+    },
+    {
+        "timestamp": 1712914301000,
+        "value": "true",
+        "timeStr": "2024-04-12 06:31:41"
+    },
+    {
+        "timestamp": 1709476472000,
+        "value": "false",
+        "timeStr": "2024-03-03 11:34:32"
+    },
+    {
+        "timestamp": 1717923635000,
+        "value": "true",
+        "timeStr": "2024-06-09 06:00:35"
+    },
+    {
+        "timestamp": 1710563659000,
+        "value": "false",
+        "timeStr": "2024-03-16 01:34:19"
+    },
+    {
+        "timestamp": 1730582870000,
+        "value": "false",
+        "timeStr": "2024-11-02 18:27:50"
+    },
+    {
+        "timestamp": 1706286804000,
+        "value": "true",
+        "timeStr": "2024-01-26 13:33:24"
+    },
+    {
+        "timestamp": 1733278279000,
+        "value": "true",
+        "timeStr": "2024-12-03 23:11:19"
+    },
+    {
+        "timestamp": 1721298123000,
+        "value": "true",
+        "timeStr": "2024-07-18 07:22:03"
+    },
+    {
+        "timestamp": 1732823338000,
+        "value": "true",
+        "timeStr": "2024-11-28 16:48:58"
+    },
+    {
+        "timestamp": 1719970219000,
+        "value": "true",
+        "timeStr": "2024-07-02 22:30:19"
+    },
+    {
+        "timestamp": 1730107942000,
+        "value": "false",
+        "timeStr": "2024-10-28 06:32:22"
+    },
+    {
+        "timestamp": 1716305593000,
+        "value": "true",
+        "timeStr": "2024-05-21 12:33:13"
+    },
+    {
+        "timestamp": 1723499878000,
+        "value": "false",
+        "timeStr": "2024-08-12 18:57:58"
+    },
+    {
+        "timestamp": 1728090518000,
+        "value": "false",
+        "timeStr": "2024-10-04 22:08:38"
+    },
+    {
+        "timestamp": 1708247761000,
+        "value": "false",
+        "timeStr": "2024-02-18 06:16:01"
+    },
+    {
+        "timestamp": 1732572720000,
+        "value": "false",
+        "timeStr": "2024-11-25 19:12:00"
+    },
+    {
+        "timestamp": 1732620983000,
+        "value": "true",
+        "timeStr": "2024-11-26 08:36:23"
+    },
+    {
+        "timestamp": 1707012679000,
+        "value": "false",
+        "timeStr": "2024-02-03 23:11:19"
+    },
+    {
+        "timestamp": 1731984202000,
+        "value": "true",
+        "timeStr": "2024-11-18 23:43:22"
+    },
+    {
+        "timestamp": 1730576558000,
+        "value": "true",
+        "timeStr": "2024-11-02 16:42:38"
+    },
+    {
+        "timestamp": 1705964867000,
+        "value": "true",
+        "timeStr": "2024-01-22 20:07:47"
+    },
+    {
+        "timestamp": 1732783739000,
+        "value": "true",
+        "timeStr": "2024-11-28 05:48:59"
+    }
+]
